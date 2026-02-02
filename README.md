@@ -16,6 +16,8 @@ The Bear Lake's level is managed based on its level at the end of the irrigation
 
 ### Additional Depletions
 
+Different users have allowance of additional depletions per Bear River compact.
+
 1.  Different divisions in the Bear River Basin are allowed additional storage or depletions under certain conditions. The upstream Bear Lake users are allowed an additional storage of 74,000 acft such that the depletions do not exceed 28,000 acft in any year IF the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
 
 For lower ID, the users are allowed an additional 125,000 acft of depletion if water is available. If users don’t deplete this amount, it is sold to the bank
@@ -92,4 +94,4 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 
 ### Considerations for Users
 
-2.  .
+21. .
