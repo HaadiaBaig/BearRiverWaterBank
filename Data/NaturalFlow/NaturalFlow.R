@@ -48,8 +48,31 @@ for(i in 1:nrow(sites)){
   data <- rbind(d, data)
 }
 
-data$year <- NULL
-unique(data$Site)
+#EFork <- read_csv("EFork_LittleBearRiver.csv", 
+ #                                 col_types = cols(Date = col_date(format = "%m/%d/%Y"), 
+#                                                   Discharge = col_number()))
+
+#cfs to acft
+#EFork$Vol <- EFork$`Discharge` *1.983
+#EFork$year = year(EFork$Date)
+#EFork$yday <- yday(EFork$Date)
+#EFork$month <- month(EFork$Date)
+
+#EFork <- EFork %>%
+ # mutate(wateryear = case_when(
+  #  lubridate::month(Date) %in% 10:12 ~ year + 1,
+   # TRUE ~ year))
+
+#EFork <- EFork %>%
+ # group_by(year, wateryear, month)%>%
+  #summarise(Volume = sum(Vol))
+
+#EFork$Site <- "EFork"
+
+#data <- rbind(EFork, data)
+
+#data$year <- NULL
+#unique(data$Site)
 
 d1 <- data %>%
   mutate(Season = case_when(

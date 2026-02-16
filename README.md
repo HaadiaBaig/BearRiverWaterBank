@@ -6,7 +6,7 @@ The purpose of this immersive online collaborative model is to give collaborator
 
 ## Key Ideas
 
-The model works on the following principles A) Store winter flows in Bear Lake. B) Divide summer natural flows to users. C) Users consume, conserve or trade within their available water, others choices, and real-time discussion of choices.
+The model works on the following principles A) Store winter flows in Bear Lake. B) Divide summer natural flows to users. C) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices.
 
 ### Potential Target Elevation (PTE)
 
@@ -20,7 +20,7 @@ Different users have allowance of additional depletions per Bear River compact.
 
 1.  Different divisions in the Bear River Basin are allowed additional storage or depletions under certain conditions. The upstream Bear Lake users are allowed an additional storage of 74,000 acft such that the depletions do not exceed 28,000 acft in any year IF the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
 
-For lower ID, the users are allowed an additional 125,000 acft of depletion if water is available. If users don’t deplete this amount, it is sold to the bank
+For lower ID, the users are allowed an additional 125,000 acft of depletion if water is available. If users have water excess water available and they don’t deplete this amount, it is sold to the bank.
 
 ## Model
 
@@ -33,7 +33,9 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 3.  Each user manages all their available water in that year.
 4.  All the depletions occur in the summer season.
 5.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
-6.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 40% for summer season and 20% for winter season.
+6.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 30% for summer season and 10% for winter season.
+7.  Cache Valley users draw water from the Little Bear River – Logan River system, they cannot trade with users from Bear Lake.
+-   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or “Bank” in Cache Valley and made available in winter season (Ref: Cache Valley Water Bank).
 
 ### Requirements
 
@@ -57,41 +59,44 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 ### Model Session
 
 1.  On the Model worksheet, scroll down Column B. The instructions are given in rows with Blue text. For example, in Rows 6-11, participants select a User and enter the User's Strategy to participate in the banking. If fewer than 5 participants, participants select multiple parties
-2.  In Cell 30, enter the Bear Lake starting level.
-3.  In Cell C38, enter the natural flow for the year, the users jointly decide the natural flow.
+2.  In Cell 30, select the Bear Lake starting level for start of the water year.
+3.  In Cell C38, select one of the historical natural flow for the year, the users jointly decide the natural flow.
     -   The model shows the year for the selected flow.
-4.  Row 41-45, the model calculates the natural flow from October – March for each user.
-5.  In Cell C49 select the March 1st Potential Target Elevation (PTE) for the Bear Lake. This is the elevation to be achieved for Bear Lake on March 31st.
+4.  Winter natural flow.
+5.  The natural flow from upstream is added to the bear lake storage
+6.  Row 41-45, the model calculates the natural flow from October – March for each user.
+7.  In Cell C48 select the March 1st Potential Target Elevation (PTE) for the Bear Lake. This is the elevation to be achieved for Bear Lake on March 31st. Historically, PTE is kept at 5916 ft for expected high runoff years to accommodate spring runoff, 5920 ft for low runoff years, and 5918 ft in average year ([Read about Potential Target Elevation](#potential-target-elevation-pte)).
     -   If there is excess water in the lake corresponding to the lake level, excess water is spilled.
-6.  Row 58-60, the model calculates the natural flow from April – September for each user.
-7.  Row 62-66, the model calculates the historic depletions by each user.
+8.  Row 55-59, the model calculates the natural flow from April – September for each user.
+9.  Row 61-65, the model calculates the historic depletions by each user.
 
 ### Participant Dashboard
 
-8.  Model allocates available natural flow in each basin.
-9.  The net available water for each user is calculated with the formula
+10. Model allocates available natural flow in each basin.
+11. The net available water for each user is calculated with the formula
 
-    *Net available water = Natural Flow – Streamflow losses – Non-Ag Depletions.*
+    *Net available water = Natural Flow – Streamflow losses – Non-Ag Depletions – Upstream consumptive use derived from flow (if any) – water bought or sold from the bank –* **water conserved in the bank.**
 
-10. Model shows the historic consumptive use for the year for the user.
-11. Model shows if there is any additional depletion is allowed based on the Bear River Compact and / or other agreements.
-12. The user decides the consumptive use of water that year based on historic use and additional depletions allowed.
+    -   For Cache Valley, UT the non ag depletions are considered to be 0 as mainly all of the urban water is sourced from underground sources.
+12. Model shows the historic consumptive use for the year for the user.
+13. Model shows if there is any additional depletion is allowed based on the Bear River Compact and / or other agreements.
+14. The user decides the consumptive use of water that year based on historic use and additional depletions allowed.
     -   If there is enough water available in the river, the user gets water from the available water. For users downstream Bear Lake, the users can take additional water from the lake to meet their consumptive use without a charge.
     -   If the user decides to consume more than their historic use, they need to buy the water from bank.
     -   If the available water is less than the historic water use, then the users can either decide to take water from the lake or sell their entitlement from the lake to the bank.
-    -   In case of Cache Valley, UT, we have water from two sources. The main stem of Bear River and the Little Bear River system. For the model, we assume that users from the entire Cache Valley can draw water from Bear Lake.
-13. Model calculates the water to sell or buy based on the user’s decision of consumptive use.
-14. User sets or negotiates the price of water (\$/acft) with the bank.
-15. Row 135 – 139, the model calculates the net water traded and the compensation (\$) for the bank.
+15. Model calculates the water to sell or buy based on the user’s decision of consumptive use.
+16. User sets or negotiates the price of water (\$/acft) with the bank.
+17. Row 135 – 139, the model calculates the net water traded and the compensation (\$) for the bank.
 
 ### End of Summer Summary
 
-16. The model summarizes the total water available before and after the consumptive use and trades.
-17. The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses and trades have happened.
-18. The bank decides how much water to deliver to the Great Salt Lake.
-19. The model calculates end of year Bear Lake storage and Levels.
-20. The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
+18. The model summarizes the total water available before and after the consumptive use and trades.
+19. Streamflow losses
+20. The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses and trades have happened.
+21. The bank decides how much water to deliver to the Great Salt Lake.
+22. The model calculates end of year Bear Lake storage and Levels.
+23. The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
 
 ### Considerations for Users
 
-21. .
+24. .
