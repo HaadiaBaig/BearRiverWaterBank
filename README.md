@@ -29,14 +29,13 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 ### Model Assumptions
 
 1.  All the depletions occur in the summer season.
-2.  Natural Flow = Gaged Flow + depletions upstream.
-3.  
-4.  The Bear River Canal Company in the model represents the uses in Tremonton.
-5.  The users make decisions to consume or trade water based on historic water use which is used in the model as a proxy to the water they are entitled to use.
-6.  Each user manages all their available water in that year.
-7.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
-8.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 30% for summer season and 10% for winter season.
-9.  Cache Valley users draw water from the Little Bear River – Logan River system, they cannot trade with users from Bear Lake.
+2.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
+    1.  Natural Flow = Gaged Flow + depletions upstream.
+3.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season.
+4.  All the users in the model represent agricultural users.
+5.  The Bear River Canal Company in the model represents the uses in Tremonton.
+6.  The users make decisions to consume or trade water based on historic water use which is used in the model as a proxy to the water they are entitled to use.
+7.  Cache Valley users draw water from the Little Bear River – Logan River system, they cannot trade with users from Bear Lake.
 -   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or “Bank” in Cache Valley and made available in winter season (Ref: Cache Valley Water Bank).
 
 ### Requirements
