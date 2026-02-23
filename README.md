@@ -6,7 +6,7 @@ The purpose of this immersive online collaborative model is to give collaborator
 
 ## Key Ideas
 
-The model works on the following principles A) Store winter flows in Bear Lake. B) Divide summer natural flows to users. C) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices.
+The model works on the following principles A) Store winter flows in Bear Lake. B) Divide summer natural flows to users. C) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices. D) Bank decides to deliver the amount of water to deliver to the GSL based on the banked water.
 
 ### Potential Target Elevation (PTE)
 
