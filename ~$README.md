@@ -10,7 +10,7 @@ The model works on the following principles: A) Store winter flows in Bear Lake.
 
 ![The image illustrates a stratified diagram indicating specific elevations and storage limits for a potential target area, with key points at 5923.65 ft, 5918-5921 ft, 5911 ft, and 5902 ft. AI-generated content may be incorrect.](media/66fe526bdc0c7018f7df854f48da3056.png)
 
-Figure 1: Be ar Lake Storage Profile
+Figure 1: Bear Lake Storage Profile
 
 ### Potential Target Elevation (PTE)
 
@@ -187,8 +187,6 @@ ID Water Supply bank: 33 \$/acft in 2025
 
 -   Collaborators in work used prices from **\$15 - \$300 per acre-foot**.
     -   Collaborators quoted bench external benchmarks like the Upper Colorado River Basin and California (\~\$500/acft). In these cases, collaborators set the Cache Valley price at approximately 50% (\~\$250/acft).
-
-### 
 
 ### Considerations for Users
 
