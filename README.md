@@ -43,8 +43,16 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 4.  All the users in the model represent agricultural use.
 5.  The Bear River Canal Company in the model represents the uses in Tremonton.
 6.  The users make decisions to consume, conserve or trade water based on historic water use, which is used in the model as a proxy to the water they are entitled to use.
-7.  Cache Valley users draw water from the Little Bear River – Logan River system, they cannot bank water in Bear Lake.
+
+### Considerations for Users
+
+1.  WY, Upstream Bear Lake Users : The user can sell water to the bank but cannot conserve water for next years or draw from the bear lake.
+2.  Lower ID: The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be draw in the subsequent years.
+3.  Cache Valley: Cache Valley users draw water from the Little Bear River – Logan River system, they cannot bank water in Bear Lake.
+    -   The user cannot draw from or store water in the bear lake (bank)
     -   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or “Bank” in Cache Valley and made available in winter season (Ref: [Cache Valley Water Bank](https://www.hydroshare.org/resource/31793214a3794afd8a33141fda0933bf/)). This water is excluded from the banked water in Bear Lake.
+4.  Lower UT
+    -   The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be draw in the subsequent years.
 
 ### Requirements
 
@@ -130,7 +138,7 @@ Figure 2: Historic Natural Flows for Bear River Basin
     -   The user decides how much water do they want to buy from or sell to the bank.
     -   If the user sells portion of their water available after consumptive use, the remaining water is added to the conserved water, that acts as the end of year account balance.
 20. Model calculates the water to sell or buy based on the user’s decision of consumptive use.
-21. User sets or negotiates the price of water (\$/acft) with the bank. ([See guidelines for pricing.](#pricing))
+21. User sets or negotiates the price of water (\$/acft) with the bank. [(See guidelines for pricing.](#pricing))
 22. Model shows the net income or expense and the end of year account balance.
 
 ### Bank Summary
@@ -187,17 +195,6 @@ ID Water Supply bank: 33 \$/acft in 2025
 
 -   Collaborators in work used prices from **\$15 - \$300 per acre-foot**.
     -   Collaborators quoted bench external benchmarks like the Upper Colorado River Basin and California (\~\$500/acft). In these cases, collaborators set the Cache Valley price at approximately 50% (\~\$250/acft).
-
-### Considerations for Users
-
-1.  WY, Upstream Bear Lake Users
-    -   The user can sell water to the bank but cannot conserve water for next years or draw from the bear lake.
-2.  Lower ID
-    -   The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be draw in the subsequent years.
-3.  Cache Valley
-    -   The user cannot draw from or store water in the bear lake (bank)
-4.  Lower UT
-    -   The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be draw in the subsequent years.
 
 ## File Description
 
