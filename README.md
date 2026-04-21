@@ -4,19 +4,19 @@
 
 The purpose of this immersive online collaborative model is to give collaborators the opportunity to immerse in and personify water user roles for a water bank for Bear River Basin. The tool is useful for two purposes; as researchers we want to know A) Why do people decide to consume, conserve, bank, and deliver water within the immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake?
 
-## Key Ideas0
+## Key Ideas
 
-The model works on the following principles A) Store winter flows in Bear Lake. B) Divide summer natural flows to users. C) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices. D) Bank decides to deliver the amount of water to deliver to GSL based on the banked water.
-
-### Bear River Basin
-
-Bear River Basin is a transboundary basin in
+The model works on the following principles: A) Store winter flows in Bear Lake. B) Allocate summer natural flows to users based on historic flows C) Allocate water from Bear Lake storage (if applicable) D) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices. E) Bank decides the amount of water to deliver to GSL based on the banked water.
 
 ### Potential Target Elevation (PTE)
 
-PacifiCorp determines the PTE, which represents the elevation of Bear Lake to be achieved, on March 31st of each year. PTE may range from 5916 ft - 5920 ft (high runoff – low runoff). Under normal conditions, PacifiCorp sets PTE at 5918 ft. This strategy balances long-term water supply needs during droughts with flood control requirements.
+The Bear Lake's level is managed based on its level at the end of the irrigation season. PacifiCorp determines the PTE, which represents the elevation of Bear Lake to be achieved on March 31st of each year. PTE ranges from 5916 ft - 5920 ft (high runoff – low runoff), and is adjusted to accommodate changing weather forecasts, downstream constraints, irrigation demands. and runoff variations
 
-The Bear Lake's level is managed based on its level at the end of the irrigation season. If the elevation is 5918 ft or higher, releases are scheduled to maintain this level by March 31st. If it's below 5918 ft, water releases are delayed until forecasts indicate the lake can reach that elevation or if high snowpack requires flood control releases. During winter, if forecasts suggest below-average runoff, releases may be curtailed even if the elevation exceeds 5918 ft. Generally, water will not be released from Bear Lake when its elevation is below the PTE, except during emergencies or for flood control.
+**PTE Aug – Dec:** PacifiCorp sets the PTE at the end of the irrigation season which is updated monthly until March 31st of the following year. During the irrigation season, if lake elevation is greater than 5,918 and the irrigation demand for storage water is not enough to reach 5,918 by the end of the irrigation season, stored water may be released in late July/August.
+
+**PTE Jan – Mar:** PaciCorp adjusts the PTE as per spring runoff forecasts and local inflows to the lake. Under normal conditions, PacifiCorp sets PTE at 5918 ft. If the elevation is 5918 ft or higher, releases are scheduled to maintain this level by March 31st. If it's below 5918 ft, water releases are delayed until forecasts indicate the lake can reach that elevation or if high snowpack requires flood control releases. During winter, if forecasts suggest below-average runoff, releases may be curtailed even if the elevation exceeds 5918 ft. Generally, water will not be released from Bear Lake when its elevation is below the PTE, except during emergencies or for flood control. This strategy balances long-term water supply needs during droughts with flood control requirements.
+
+If the Bear Lake elevation is below the PTE from the end of the irrigation season to March 31st of the following year, releases are curtailed until the lake is predicted to reach the PTE.
 
 ### Additional Depletions
 
@@ -32,15 +32,15 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 
 ### Model Assumptions
 
-1.  All the depletions occur in the summer season.
+1.  All the depletions occur in the summer season. Winter depletions are negligible.
 2.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
-    1.  Natural Flow = Gaged Flow + depletions upstream.
+    -   Natural Flow = Gaged Flow + depletions upstream.
 3.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Cell 25 – 27 shows streamflow assumptions.
-4.  All the users in the model represent agricultural users.
+4.  All the users in the model represent agricultural use.
 5.  The Bear River Canal Company in the model represents the uses in Tremonton.
-6.  The users make decisions to consume, conserve or trade water based on historic water use which is used in the model as a proxy to the water they are entitled to use.
-7.  Cache Valley users draw water from the Little Bear River – Logan River system, they cannot trade with users from Bear Lake.
--   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or “Bank” in Cache Valley and made available in winter season (Ref: Cache Valley Water Bank).
+6.  The users make decisions to consume, conserve or trade water based on historic water use, which is used in the model as a proxy to the water they are entitled to use.
+7.  Cache Valley users draw water from the Little Bear River – Logan River system, they cannot bank water in Bear Lake.
+    -   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or “Bank” in Cache Valley and made available in winter season (Ref: [Cache Valley Water Bank](https://www.hydroshare.org/resource/31793214a3794afd8a33141fda0933bf/)). This water is excluded from the banked water in Bear Lake.
 
 ### Requirements
 
@@ -53,15 +53,15 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 
 ### Setup
 
-1.  Download the file BearRiverWaterBank.xlsx to your computer.
+1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer.
 2.  Move the Excel file to your Google Drive. Open as a Google Sheet.
 3.  Open the *Versions* Worksheet to see updates.
 4.  Duplicate the *Model* Worksheet to work on in this session and save a blank version for later use.
-5.  Invite 1 or more other people to join the Google Sheet. In the upper right of the Google Sheet, click the Share button.
-6.  Add emails and set permissions so players can access the Google Sheet. Or copy and share the sheet's URL.
-7.  Use.
+5.  Invite 1 or more other people to join the Google Sheet.
+    1.  In the upper right of the Google Sheet, click the Share button.
+    2.  Add emails and set permissions so players can access the Google Sheet. Or copy and share the sheet's URL.
 
-### Model Session
+### Use.
 
 1.  On the Model worksheet, scroll down Column B. The instructions are given in rows with Blue text. For example, in **Rows 6-11**, participants select a User and enter the User's Strategy to participate in the banking. If fewer than 5 participants, participants select multiple parties.
     -   Sample strategies
@@ -74,21 +74,21 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 Start of the water year: October
 
 2.  In **Cell 24**, select the Bear Lake starting level for start of the water year.
-    -   The model calculates the beginning of year Bear Lake Storage.
+    -   The model calculates the beginning of water year Bear Lake Storage.
 
 ![](media/1a700101ceb839d8885b1e08113b18b9.png)
 
-Figure 1: Historic elevation of Bear Lake (ft)
+Figure 1: Historic elevation of Bear Lake at the beginning of water year(ft)
 
-3.  In **Cell 28,** select natural flow from the drop-down list. The list contains historic natural flows.
-    -   The model shows the year for the selected flow.
+3.  In **Cell 28,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
+    -   The model also shows the year for the selected flow.
 
 ![](media/2498a1cc954da85849f25248cac99605.png)
 
 Figure 2: Historic Natural Flows for Bear River Basin
 
-4.  **Cell 31-45:** The model calculates the winter natural flow (October – March) for selected year for each year.
-5.  The natural flow from upstream bear lake is added to the bear lake storage.
+4.  **Cell 31-45:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
+5.  The winter natural flow from upstream bear lake is added to the bear lake storage (assuming there are no diversions in winter season).
 
 ### Bear Lake Operations
 
@@ -154,4 +154,7 @@ Figure 2: Historic Natural Flows for Bear River Basin
 1.  WY, Upstream Bear Lake Users
 2.  Lower ID
 3.  Cache Valley
-4.  
+
+## File Description
+
+1.  [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx)
