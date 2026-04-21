@@ -130,7 +130,7 @@ Figure 2: Historic Natural Flows for Bear River Basin
     -   The user decides how much water do they want to buy from or sell to the bank.
     -   If the user sells portion of their water available after consumptive use, the remaining water is added to the conserved water, that acts as the end of year account balance.
 20. Model calculates the water to sell or buy based on the user’s decision of consumptive use.
-21. User sets or negotiates the price of water (\$/acft) with the bank. See guidelines for pricing.
+21. User sets or negotiates the price of water (\$/acft) with the bank. ([See guidelines for pricing.](#pricing))
 22. Model shows the net income or expense and the end of year account balance.
 
 ### Bank Summary
@@ -163,17 +163,17 @@ Great Salt Lake Watershed Enhancement Trust committed \$1M to lease about 2500 a
 
 Assuming a lease for 5 years
 
-Cost per acft = $$\frac{\$ \  1 , 0 0 0 , 0 0 0 \  \ }{2 5 0 0 * 5 \  a c f t} = \mathbf{\$ 8 0 \  a c f t}$$
+Cost per acft = $$\frac{\$ \  1 , 000 , 0 0 0 \  \ }{2500 * 5 \  a c f t} = \$ \mathbf{80} \mathbf{\ } \mathbf{a c f t}$$
 
 Assuming a lease for 10 years
 
-Cost per acft = $$\frac{\$ \  1 , 0 0 0 , 0 0 0 \  \ }{2 5 0 0 * 1 0 \  a c f t} = \mathbf{\$ 4 0 \  a c f t}$$
+Cost per acft = $$\frac{\$ \  1 , 000 , 0 0 0 \  \ }{2500 * 1 0 \  a c f t} = \$ \mathbf{40} \mathbf{\ } \mathbf{a c f t}$$
 
 ### Utah’s Demand Management Program
 
 The estimated savings from [Utah’s demand management program](https://cra.utah.gov/utah-colorado-river-agricultural-water-resilience-demand-management-pilot-program-2-2/) for Colorado River Basin is 22,600 acft. The program will spend [\$4M for fallowing](https://www.kuer.org/science-environment/2025-02-14/utah-seems-ready-to-pay-farmers-to-leave-more-water-in-the-colorado-river). We can estimate cost of water
 
-Cost per acft = $$\frac{\$ \  4 , 0 0 0 , 0 0 0 \  \ }{2 2 , 0 0 0 \  a c f t} = \sim \mathbf{\$ \  1 7 8 \  a c f t}$$
+Cost per acft = $$\frac{\$ \  4 , 000 , 0 0 0 \  \ }{22 , 0 0 0 \  a c f t} = \sim \$ \mathbf{\ } \mathbf{178} \mathbf{\ } \mathbf{a c f t}$$
 
 For 2025 – 2026 year, the program estimates a cost of **\$390 per acft** for water conserved.
 
