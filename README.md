@@ -8,6 +8,8 @@ The purpose of this immersive online collaborative model is to give collaborator
 
 The model works on the following principles: A) Store winter flows in Bear Lake. B) Allocate summer natural flows to users based on historic flows C) Allocate water from Bear Lake storage (if applicable) D) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices. E) Bank decides the amount of water to deliver to GSL based on the banked water.
 
+![](media/efb205682cd25cc0b07362c743f00818.png)
+
 Figure 1: Bear Lake Storage Profile
 
 ### Potential Target Elevation (PTE)
@@ -36,7 +38,9 @@ To use, download the Excel Model File, move to Google Sheets, and invite partici
 
 1.  All the depletions occur in the summer season. Winter depletions are negligible.
 2.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
-    -   Natural Flow = Gaged Flow + depletions upstream.
+
+    Natural Flow = Gaged Flow + depletions upstream.
+
 3.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Cell 25 – 27 shows streamflow assumptions.
 4.  All the users in the model represent agricultural use.
 5.  The Bear River Canal Company in the model represents the uses in Tremonton.
@@ -88,14 +92,14 @@ Start of the water year: October
 
 ![](media/1a700101ceb839d8885b1e08113b18b9.png)
 
-Figure 1: Historic elevation of Bear Lake at the beginning of water year(ft)
+Figure 2: Historic elevation of Bear Lake at the beginning of water year(ft)
 
 3.  In **Cell 28,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
     -   The model also shows the year for the selected flow.
 
 ![](media/2498a1cc954da85849f25248cac99605.png)
 
-Figure 2: Historic Natural Flows for Bear River Basin
+Figure 3: Historic Natural Flows for Bear River Basin
 
 4.  **Cell 31-45:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
 5.  The winter natural flow from upstream bear lake is added to the bear lake storage (assuming there are no diversions in winter season).
@@ -112,6 +116,10 @@ Figure 2: Historic Natural Flows for Bear River Basin
 9.  **Row 53-57**, the model calculates the historic depletions by each user.
 
 ### Participant Dashboard
+
+![](media/67cd662601f143669a5819c1de3055cf.jpeg)
+
+Figure 4: Participant Dashboard in the model file
 
 10. Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
 11. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
