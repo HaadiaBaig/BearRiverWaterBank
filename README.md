@@ -153,7 +153,7 @@ Figure 4: Participant Dashboard in the model file
     -   The user decides how much water do they want to buy from or sell to the bank.
     -   If the user sells portion of their water available after consumptive use, the remaining water is added to the conserved water, that acts as the end of year account balance.
 19. Model calculates the water to sell or buy based on the user’s decision of consumptive use.
-20. User sets or negotiates the price of water (\$/acft) with the bank. [(See guidelines for pricing.](#pricing))
+20. User sets or negotiates the price of water (\$/acft) with the bank. [(See benchmarks for pricing.](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/Pricing.md#pricing))
 21. Model shows the net income or expense and the end of year account balance.
 
 ### Bank Summary
@@ -178,7 +178,7 @@ Figure 4: Participant Dashboard in the model file
 
 ## Pricing
 
-There is no set pricing standard for water markets in Utah. Some benchmarks can be used to justify pricing (Read about pricing strategies).
+There is no set pricing standard for water markets in Utah. Some benchmarks can be used to justify pricing ([Read about pricing strategies](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/Pricing.md#pricing)).
 
 ## File Description
 
