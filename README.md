@@ -30,13 +30,15 @@ The Bear Lake's level is managed based on its level at the end of the irrigation
 
 If the Bear Lake elevation is below the PTE from the end of the irrigation season to March 31st of the following year, releases are curtailed until the lake is predicted to reach the PTE.
 
-### Additional Depletions
+### Additional Depletions Under Amended Bear River Compact
 
-Different users have allowance of additional depletions per Bear River compact.
+Different divisions in the Bear River Basin are allowed additional storage or depletion under certain conditions.
 
-1.  Different divisions in the Bear River Basin are allowed additional storage or depletion under certain conditions. The upstream Bear Lake users are allowed an additional storage of 74,000 ac-ft such that the depletions do not exceed 28,000 ac-ft in any year IF the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
-
-For lower ID, the users are allowed an additional 125,000 ac-ft of depletion if water is available. If users have excess water available and they don’t deplete this amount, it is sold to the bank.
+1.  The Upper and Central Divisionas (Upstream Bear Lake users in our model) are allowed an additional storage of 74,000 ac-ft such that the depletions do not exceed 28,000 ac-ft in any year **IF** the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
+2.  ID is allowed first right to an additional 125,000 ac-ft of depletion if water is available.
+    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
+3.  UT is allowed an additional 275,000 ac-ft of depletions if water is available.
+    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
 
 ## Model
 
@@ -125,7 +127,7 @@ Figure 3: Historic Natural Flows for Bear River Basin
 
 ### Participant Dashboard
 
-![](media/67cd662601f143669a5819c1de3055cf.jpeg)
+![](media/6bfc770d0c5e8af5d4814378db4cf03e.jpeg)
 
 Figure 4: Participant Dashboard in the model file
 
@@ -176,42 +178,11 @@ Figure 4: Participant Dashboard in the model file
 
 ## Pricing
 
-There is no set pricing standard for water markets in Utah. Some possible bench marks are
-
-### GSL Watershed Enhancement Trust Water Lease for GSL
-
-Great Salt Lake Watershed Enhancement Trust committed \$1M to lease about 2500 acft of water annually from Metropolitan Water District of Salt Lake City & Sandy for next 5 - 10 years. We can calculate the cost of water per acre-foot.
-
-Assuming a lease for 5 years
-
-Cost per acft = $$\frac{\$ \  1 , 000 , 0 0 0 \  \ }{2500 * 5 \  a c f t} = \$ \mathbf{80} \mathbf{\ } \mathbf{a c f t}$$
-
-Assuming a lease for 10 years
-
-Cost per acft = $$\frac{\$ \  1 , 000 , 0 0 0 \  \ }{2500 * 1 0 \  a c f t} = \$ \mathbf{40} \mathbf{\ } \mathbf{a c f t}$$
-
-### Utah’s Demand Management Program
-
-The estimated savings from [Utah’s demand management program](https://cra.utah.gov/utah-colorado-river-agricultural-water-resilience-demand-management-pilot-program-2-2/) for Colorado River Basin is 22,600 acft. The program will spend [\$4M for fallowing](https://www.kuer.org/science-environment/2025-02-14/utah-seems-ready-to-pay-farmers-to-leave-more-water-in-the-colorado-river). We can estimate cost of water
-
-Cost per acft = $$\frac{\$ \  4 , 000 , 0 0 0 \  \ }{22 , 0 0 0 \  a c f t} = \sim \$ \mathbf{\ } \mathbf{178} \mathbf{\ } \mathbf{a c f t}$$
-
-For 2025 – 2026 year, the program estimates a cost of **\$390 per acft** for water conserved.
-
-Price River Water User Association: Forbearance Pilot Project cost of water = 150 per acre-foot of conserved depletion.
-
-### Benchmarking from Neighboring States
-
-ID Water Supply bank: 33 \$/acft in 2025
-
-### Cache Valley Water Banking model
-
--   Collaborators in work used prices from **\$15 - \$300 per acre-foot**.
-    -   Collaborators quoted bench external benchmarks like the Upper Colorado River Basin and California (\~\$500/acft). In these cases, collaborators set the Cache Valley price at approximately 50% (\~\$250/acft).
+There is no set pricing standard for water markets in Utah. Some benchmarks can be used to justify pricing (Read about pricing strategies).
 
 ## File Description
 
 1.  Data \> Natural Flow: Data and R code to calculate Natural Flow for the model users.
 2.  IRB: Approved documents for Institutional Review Board.
 3.  Model Files \> [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) : Model file for Bear River Water Bank
-4.  Experiments : Older versions of the model using different scenarios.
+4.  Experiments: Older versions of the model using different scenarios.
