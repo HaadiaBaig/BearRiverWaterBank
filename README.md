@@ -36,19 +36,17 @@ To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverW
 
 ### Model Setup
 
+The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID users (Users below Bear Lake in ID) 3) Cache Valley, UT (Users in UT that are in Logan River – Little Bear River Watershed 4) Lower UT (Utah users excluding Cache Valley and Malad river users),
+
+![The image depicts a map showing various geographical locations in Idaho and Utah, including rivers, lakes, and towns such as Bear Lake, Cutthroat, and Salt Lake. AI-generated content may be incorrect.](media/ccd419567d7dd21000150964d9b6c737.jpeg)
+
+Figure 2: Water Users as in the Immersive Model (Original Map: UT Division of Water Rights)
+
 The model is set up for a seasonal time step as follows, October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade and pricing (Figure 2).
 
 ![](media/44cb43c652fb11c5ee1512bb62f69b44.png)
 
-Figure 2: Model setup and choices
-
-### Water Users
-
-The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID users (Users below Bear Lake in ID) 3) Cache Valley, UT (Users in UT that are in Logan River – Little Bear River Watershed 4) Lower UT (Utah users excluding Cache Valley and Malad river users),
-
-![](media/ccd419567d7dd21000150964d9b6c737.jpeg)
-
-Figure 3: Water Users (Original Map: UT Division of Water Rights)
+Figure 3: Model setup and choices
 
 ### Model Assumptions
 
@@ -79,7 +77,7 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 2.  ID is allowed first right to an additional 125,000 ac-ft of depletion if water is available.
     1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
 3.  UT is allowed an additional 275,000 ac-ft of depletions if water is available.
-    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.![](media/ccd419567d7dd21000150964d9b6c737.jpeg)
+    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
 
 ### Requirements
 
@@ -118,14 +116,14 @@ Start of the water year: October
 
 ![](media/1a700101ceb839d8885b1e08113b18b9.png)
 
-Figure 3: Historic elevation of Bear Lake at the beginning of water year(ft)
+Figure 4: Historic elevation of Bear Lake at the beginning of water year(ft)
 
 4.  In **Cell 28,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
     -   The model also shows the year for the selected flow.
 
 ![](media/2498a1cc954da85849f25248cac99605.png)
 
-Figure 4: Historic Natural Flows for Bear River Basin
+Figure 5: Historic Natural Flows for Bear River Basin
 
 5.  **Cell 31-45:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
 6.  The winter natural flow from upstream bear lake is added to the bear lake storage (assuming there are no diversions in winter season).
@@ -143,11 +141,11 @@ Figure 4: Historic Natural Flows for Bear River Basin
 
     ![](media/5304f459a85b59b74dc7bdffa8982648.png)
 
-Figure 5: Historic Depletions in Bear River Basin
+Figure 6: Historic Depletions in Bear River Basin
 
 ### Participant Dashboard
 
-![](media/11a162493cbdf558ed415d68f3b14b91.jpeg)Figure 6: Participant Dashboard in the model file
+![](media/11a162493cbdf558ed415d68f3b14b91.jpeg)Figure 7: Participant Dashboard in the model file
 
 11. Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
 12. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
