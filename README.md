@@ -30,16 +30,6 @@ The Bear Lake's level is managed based on its level at the end of the irrigation
 
 If the Bear Lake elevation is below the PTE from the end of the irrigation season to March 31st of the following year, releases are curtailed until the lake is predicted to reach the PTE. ([Read more on Bear Lake Operations](https://bearrivercommission.org/docs/Operations%20Agreement%20for%20PacifiCorps%20Bear%20River%20System.pdf))
 
-### Additional Depletions Under Amended Bear River Compact
-
-Different divisions in the Bear River Basin are allowed additional storage or depletion under certain conditions.
-
-1.  The Upper and Central Divisions (Upstream Bear Lake users in our model) are allowed an additional storage of 74,000 ac-ft such that the depletions do not exceed 28,000 ac-ft in any year **IF** the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
-2.  ID is allowed first right to an additional 125,000 ac-ft of depletion if water is available.
-    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
-3.  UT is allowed an additional 275,000 ac-ft of depletions if water is available.
-    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
-
 ## Model
 
 To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve or trade water in the accounts. Read on for directions to use.
@@ -51,6 +41,14 @@ The model is set up for a seasonal time step as follows, October–March: Winter
 ![](media/44cb43c652fb11c5ee1512bb62f69b44.png)
 
 Figure 2: Model setup and choices
+
+### Water Users
+
+The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID users (Users below Bear Lake in ID) 3) Cache Valley, UT (Users in UT that are in Logan River – Little Bear River Watershed 4) Lower UT (Utah users excluding Cache Valley and Malad river users),
+
+![](media/ccd419567d7dd21000150964d9b6c737.jpeg)
+
+Figure 3: Water Users (Original Map: UT Division of Water Rights)
 
 ### Model Assumptions
 
@@ -72,6 +70,16 @@ Figure 2: Model setup and choices
     -   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or “Bank” in Cache Valley and made available in winter season (Ref: [Cache Valley Water Bank](https://www.hydroshare.org/resource/31793214a3794afd8a33141fda0933bf/)). This water is excluded from the banked water in Bear Lake.
 4.  Lower UT
     -   The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be drawn in the subsequent years.
+
+### Additional Depletions Under Amended Bear River Compact
+
+Different divisions in the Bear River Basin are allowed additional storage or depletion under certain conditions.
+
+1.  The Upper and Central Divisions (Upstream Bear Lake users in our model) are allowed an additional storage of 74,000 ac-ft such that the depletions do not exceed 28,000 ac-ft in any year **IF** the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
+2.  ID is allowed first right to an additional 125,000 ac-ft of depletion if water is available.
+    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
+3.  UT is allowed an additional 275,000 ac-ft of depletions if water is available.
+    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.![](media/ccd419567d7dd21000150964d9b6c737.jpeg)
 
 ### Requirements
 
