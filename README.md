@@ -131,7 +131,7 @@ Figure 5: Historic Natural Flows for Bear River Basin
 ### Bear Lake Operations
 
 7.  **Row 37 – 45** contains data for Bear Lake based on operation decision.
-8.  **Row 38** select the March 1st Potential Target Elevation (PTE) for the Bear Lake. This is the elevation to be achieved for Bear Lake on March 31st. Historically, PTE is kept at 5916 ft for expected high runoff years to accommodate spring runoff, 5920 ft for low runoff years, and 5918 ft in average year ([Read about Potential Target Elevation](#potential-target-elevation-pte)).
+8.  **Row 38** select the March 1st Potential Target Elevation (PTE) for the Bear Lake. This is the elevation to be achieved for Bear Lake on March 31st. Historically, PTE is kept at 5916 ft for expected high runoff years to accommodate spring runoff, 5920 ft for low runoff years, and 5918 ft in average year ([Read about Potential Target Elevation](https://github.com/HaadiaBaig/BearRiverWaterBank#bear-lake-potential-target-elevation-pte)).
     -   If there is excess water in the lake corresponding to the lake level, excess water is spilled.
 
 ### Summer Flows (April – September)
