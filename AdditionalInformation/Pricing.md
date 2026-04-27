@@ -6,7 +6,7 @@ Table 1: Benchmarks for water pricing
 
 | **Program / Entity**                                                                                                                                    | **State** | **Year**    | **Transaction Type** | **Cost (\$/acft)** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|----------------------|--------------------|
-| GSL Watershed Enhancement Trust                                                                                                                         | UT        |  5 – 10 yrs | Lease                | \$36 - \$72        |
+| GSL Watershed Enhancement Trust                                                                                                                         | UT        | 5 – 10 yrs  | Lease                | \$36 - \$72        |
 | [Water Supply Bank](https://idwr.idaho.gov/iwrb/programs/water-supply-bank/pricing/)                                                                    | ID        | 2024, 2025  | Bank                 | \$23, \$33         |
 | Demand Management Program (DMP)                                                                                                                         | UT        | 2025 - 2026 | Fallowing / Leasing  | \$190 - \$194      |
 | [DMP - Price River Water User Association](https://cra.utah.gov/utah-colorado-river-agricultural-water-resilience-demand-management-pilot-program-2-2/) | UT        | 2025-2026   | Forbear              | \$ 150             |
@@ -32,7 +32,8 @@ Cost per acft = \$ 900,000 / 2500\* 10 acft = \$ 36 /acft
 
 In the Colorado River Basin in Utah, the program is aimed at reducing water depletions through “temporary, voluntary, compensated, and protected water conservation actions”. Several applications have been approved under the program for 2025 and 2026 with an estimated savings of 20,481 – 22,371 acft of water.
 
-![](media/da9203e8956578d057cc5597136befb6.png)Figure 1: Possible range of water savings and estimated costs[Source: [Colorado River Authority of Utah](https://cra.utah.gov/wp-content/uploads/2026/02/20250618_FY26_WorkPlan_BOARD-APPROVED-w.-CH-edit-1.pdf)]
+![](media/da9203e8956578d057cc5597136befb6.png)  
+Figure 1: Possible range of water savings and estimated costs[Source: [Colorado River Authority of Utah](https://cra.utah.gov/wp-content/uploads/2026/02/20250618_FY26_WorkPlan_BOARD-APPROVED-w.-CH-edit-1.pdf)]
 
 Thus, cost of water (\$/acft) = Compenstaion estimate (\$)/ Depletion Estimate (acft) = 190 - 194 \$/acft
 
