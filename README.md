@@ -12,7 +12,7 @@ The model works on the following principles: A) Store winter flows in Bear Lake 
 
 Bear River is an interstate river in Utah, Wyoming, and Idaho, encompassing approximately 500 square miles. It originates in the Uinta Mountains of northeastern Utah, flows north into Wyoming, then west and south through Idaho, and ultimately returns to Utah before discharging into the Great Salt Lake. Key hydrologic features of the basin include Bear Lake, a large natural lake used for water storage and hydropower regulation, and a system of reservoirs, diversions, and irrigation infrastructure that support agricultural, municipal, industrial, and ecological uses. Average annual flows vary considerably due to snowpack-driven runoff and climatic conditions, requiring coordinated interstate management under established legal and operational frameworks.
 
-The water allocation and management in the Bear River Basin are governed by an interconnected framework of interstate compacts, federal legislation, court decrees, state water laws, and administrative institutions ([Read more on compact and agreements](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/BearRiverManagement.md#bear-river-basin-management)).
+The water allocation and management in the Bear River Basin are governed by an interconnected framework of interstate compacts, federal legislation, court decrees, state water laws, and administrative institutions ([Read more on Bear Rivr Compact and agreements](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/BearRiverManagement.md#bear-river-basin-management)).
 
 Bear Lake is a large natural freshwater lake located on the Utah–Idaho border and. It functions as a major storage reservoir, regulating flows in the Bear River for irrigation and hydropower generation. Bear Lake is also ecologically significant and supports unique native fish species and important recreational activities.
 
@@ -28,13 +28,13 @@ The Bear Lake's level is managed based on its level at the end of the irrigation
 
 **PTE Jan – Mar:** PaciCorp adjusts the PTE as per spring runoff forecasts and local inflows to the lake. Under normal conditions, PacifiCorp sets PTE at 5918 ft. If the elevation is 5918 ft or higher, releases are scheduled to maintain this level by March 31st. If it's below 5918 ft, water releases are delayed until forecasts indicate the lake can reach that elevation or if high snowpack requires flood control releases. During winter, if forecasts suggest below-average runoff, releases may be curtailed even if the elevation exceeds 5918 ft. Generally, water will not be released from Bear Lake when its elevation is below the PTE, except during emergencies or for flood control. This strategy balances long-term water supply needs during droughts with flood control requirements.
 
-If the Bear Lake elevation is below the PTE from the end of the irrigation season to March 31st of the following year, releases are curtailed until the lake is predicted to reach the PTE.
+If the Bear Lake elevation is below the PTE from the end of the irrigation season to March 31st of the following year, releases are curtailed until the lake is predicted to reach the PTE. ([Read more on Bear Lake Operations](https://bearrivercommission.org/docs/Operations%20Agreement%20for%20PacifiCorps%20Bear%20River%20System.pdf))
 
 ### Additional Depletions Under Amended Bear River Compact
 
 Different divisions in the Bear River Basin are allowed additional storage or depletion under certain conditions.
 
-1.  The Upper and Central Divisionas (Upstream Bear Lake users in our model) are allowed an additional storage of 74,000 ac-ft such that the depletions do not exceed 28,000 ac-ft in any year **IF** the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
+1.  The Upper and Central Divisions (Upstream Bear Lake users in our model) are allowed an additional storage of 74,000 ac-ft such that the depletions do not exceed 28,000 ac-ft in any year **IF** the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
 2.  ID is allowed first right to an additional 125,000 ac-ft of depletion if water is available.
     1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
 3.  UT is allowed an additional 275,000 ac-ft of depletions if water is available.
@@ -43,6 +43,14 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 ## Model
 
 To use, download the Excel Model File, move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve or trade water in the accounts. Read on for directions to use.
+
+### Model Setup
+
+The model is setup for a seasonal time step (Figure 2).
+
+![](media/0c57a5f29a73bf22b094ccd97bb2a162.png)
+
+Figure 2: Model setup and choices
 
 ### Model Assumptions
 

@@ -125,11 +125,13 @@ Figure 3: Historic Natural Flows for Bear River Basin
 8.  **Row 47-51**, the model calculates the natural flow from April – September for each user.
 9.  **Row 53-57**, the model calculates the historic depletions by each user.
 
+    ![](media/5304f459a85b59b74dc7bdffa8982648.png)
+
+Figure 4: Historic Depletions in Bear River Basin
+
 ### Participant Dashboard
 
-![](media/6bfc770d0c5e8af5d4814378db4cf03e.jpeg)
-
-Figure 4: Participant Dashboard in the model file
+![](media/11a162493cbdf558ed415d68f3b14b91.jpeg)Figure 5: Participant Dashboard in the model file
 
 10. Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
 11. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
