@@ -20,20 +20,24 @@ Great Salt Lake Watershed Enhancement Trust committed \$1M to lease about 2500 a
 
 Assuming 10% operating/administrative costs, the cost to lease water = \$900 k
 
-*Assuming a lease for 5 years*
+*Assuming a 5-year lease*
 
-Cost per acft = \$ 900,000 / 2500\* 5 acft = \$ 72 /acft
+Amount of water leased = 2500 \* 5 = 12,500 acft
 
-*Assuming a lease for 10 years*
+Cost per acft = \$ 900,000 / 12,500 acft = \$ 72 /acft
 
-Cost per acft = \$ 900,000 / 2500\* 10 acft = \$ 36 /acft
+*Assuming a 10- year water lease*
+
+Amount of water leased = 2500 \* 10 = 25,000 acft
+
+Cost per acft = \$ 900,000 / 25,000 acft = \$ 36 /acft
 
 ### Utah’s Demand Management Pilot Program
 
 In the Colorado River Basin in Utah, the program is aimed at reducing water depletions through “temporary, voluntary, compensated, and protected water conservation actions”. Several applications have been approved under the program for 2025 and 2026 with an estimated savings of 20,481 – 22,371 acft of water.
 
 ![](media/da9203e8956578d057cc5597136befb6.png)  
-Figure 1: Possible range of water savings and estimated costs[Source: [Colorado River Authority of Utah](https://cra.utah.gov/wp-content/uploads/2026/02/20250618_FY26_WorkPlan_BOARD-APPROVED-w.-CH-edit-1.pdf)]
+Figure 1: Possible range of water savings and estimated costs (Source: [Colorado River Authority of Utah](https://cra.utah.gov/wp-content/uploads/2026/02/20250618_FY26_WorkPlan_BOARD-APPROVED-w.-CH-edit-1.pdf))
 
 Thus, cost of water (\$/acft) = Compenstaion estimate (\$)/ Depletion Estimate (acft) = 190 - 194 \$/acft
 
