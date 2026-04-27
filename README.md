@@ -110,14 +110,14 @@ Start of the water year: October
 
 ![](media/1a700101ceb839d8885b1e08113b18b9.png)
 
-Figure 2: Historic elevation of Bear Lake at the beginning of water year(ft)
+Figure 3: Historic elevation of Bear Lake at the beginning of water year(ft)
 
 3.  In **Cell 28,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
     -   The model also shows the year for the selected flow.
 
 ![](media/2498a1cc954da85849f25248cac99605.png)
 
-Figure 3: Historic Natural Flows for Bear River Basin
+Figure 4: Historic Natural Flows for Bear River Basin
 
 4.  **Cell 31-45:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
 5.  The winter natural flow from upstream bear lake is added to the bear lake storage (assuming there are no diversions in winter season).
@@ -135,11 +135,11 @@ Figure 3: Historic Natural Flows for Bear River Basin
 
     ![](media/5304f459a85b59b74dc7bdffa8982648.png)
 
-Figure 4: Historic Depletions in Bear River Basin
+Figure 5: Historic Depletions in Bear River Basin
 
 ### Participant Dashboard
 
-![](media/11a162493cbdf558ed415d68f3b14b91.jpeg)Figure 5: Participant Dashboard in the model file
+![](media/11a162493cbdf558ed415d68f3b14b91.jpeg)Figure 6: Participant Dashboard in the model file
 
 10. Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
 11. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
