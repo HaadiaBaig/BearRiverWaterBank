@@ -1,31 +1,37 @@
 # Reference Budgets for GSL Related Conservation Programs
 
-Below are some references for budgets allocated or committed for different conservation measures for GSL restoration.
+Below are some references for budgets allocated or committed to different conservation measures for GSL restoration.
 
-| **Program / Entity**                                                                                     | **Budget / commitment**  | **Focus**                                                     | **Volume (acft)** |
-|----------------------------------------------------------------------------------------------------------|--------------------------|---------------------------------------------------------------|-------------------|
-| [Great Salt Lake Watershed Enhancement](https://le.utah.gov/Session/2022/bills/static/HB0410.html) Trust | \$ 40 M                  | Conservation projects                                         | -                 |
-| GSL Watershed Enhancement Trust                                                                          | \$ 1 M                   | Lease for GSL from Metropolitan Waetr Dist. of SLC and Sandy  | 25k               |
-| [Agricultural optimization](https://le.utah.gov/Session/2023/bills/static/SB0277.html)                   | \$ 200 M                 | On farm water conservation                                    | -                 |
-| [Great Salt Lake Preservation Program](https://le.utah.gov/Session/2022/bills/static/HB0410.html)        | \$ 2.75 M                | Water Leasing for GSL                                         | -                 |
-| Presidential Commitment                                                                                  | \$ 1 B                   | GSL restoration                                               | -                 |
+Table 1: Programs for GSL restoration and conservation
+
+| **Program / Entity**                                                                                                                                                                | **Budget / commitment** | **Focus**                                                                 | **Volume (acft)** |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|---------------------------------------------------------------------------|-------------------|
+| [Bureau of Reclamation](https://greatsaltlake.utah.gov/wp-content/uploads/GSLCO-WIP-Advance-Notice-Informal-Announcement.pdf) -\> GSL Commissioner’s Office + Utah DNR              | \$ 50 M                 | Voluntary Water Transactions, System Conservation, Ecosystem and Habitat  |                   |
+| [Great Salt Lake Watershed Enhancement Trust](https://le.utah.gov/Session/2022/bills/static/HB0410.html)                                                                            | \$ 40 M                 | Conservation projects                                                     | -                 |
+| [Utah Div of FFSL acquisition of US Mg plant](https://www.upr.org/environment/2026-02-23/utah-bought-one-of-its-biggest-polluters-what-does-this-mean)                              | \$ 30 M                 | Acquiring water rights                                                    | \~145k            |
+| GSL Watershed Enhancement Trust + Metropolitan Water Dist. of SLC and Sandy                                                                                                         | \$ 1 M                  | Municipal lease for GSL                                                   | 12 k - 25k        |
+| [Agricultural optimization](https://le.utah.gov/Session/2023/bills/static/SB0277.html)                                                                                              | \$ 200 M                | On farm water conservation                                                | -                 |
+| [Great Salt Lake Preservation Program](https://le.utah.gov/Session/2022/bills/static/HB0410.html)                                                                                   | \$ 2.75 M               | Water Leasing for GSL                                                     | -                 |
+| [President Trump’s Request](https://www.whitehouse.gov/wp-content/uploads/2026/04/budget_fy2027.pdf)                                                                                | \$ 1 B                  | GSL restoration and protection                                            | -                 |
+| [Price River Water User Association Storage Forbearance Pilot Project](https://cra.utah.gov/utah-colorado-river-agricultural-water-resilience-demand-management-pilot-program-2-2/) | \$ 3 M                  | Voluntary Forbearance                                                     | \~2k              |
+| [Utah private and non-profit sector](https://www.sltrib.com/news/environment/2025/09/24/can-200m-save-great-salt-lake-utah/)                                                        | \$200 M                 |                                                                           |                   |
 
 # Pricing Benchmarks for Water
 
-There is no set pricing standard for water markets in Utah. Some possible benchmarks are different state programs aimed at conservation, leasing and renting water. A summary is given below
+There is no set pricing standard for water markets in Utah. Some possible benchmarks are different state programs aimed at conservation, leasing and renting water. A summary is given in Table 2.
 
-Table 1: Benchmarks for water pricing
+Table 2: Benchmarks for water pricing
 
-| **Program / Entity**                                                                                                                                    | **Basin**  | **Year**    | **Transaction Type** | **Cost (\$/acft)** | **Volume (Acft)** |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|----------------------|--------------------|-------------------|
-| [Water Supply Bank](https://idwr.idaho.gov/iwrb/programs/water-supply-bank/pricing/)                                                                    | ID         | 2024, 2025  | Bank                 | \$23, \$33         |                   |
-| Demand Management Program (DMP)                                                                                                                         | UT         | 2025 - 2026 | Fallowing / Leasing  | \$190 - \$194      | 20k 22k           |
-| [DMP - Price River Water User Association](https://cra.utah.gov/utah-colorado-river-agricultural-water-resilience-demand-management-pilot-program-2-2/) | UT         | 2025-2026   | Forbear              | \$ 150             |                   |
-| [System Conservation Pilot Program](https://cra.utah.gov/system-conservation-pilot-program/)                                                            | UT         | 2024        | Forbear              | \$150              |                   |
-| Cache Valley water bank model                                                                                                                           | UT         |             | Banking              | \$15 - \$300**\`** |                   |
-| Desalination Isreal desal cost Colorado                                                                                                                 |            |             |                      |                    |                   |
+| **Program / Entity**                                                                                                                                                                      | **Basin** | **Years**   | **Transaction Type** | **Cost (\$/acft)**     | **Volume (Acft)** |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|----------------------|------------------------|-------------------|
+| [Water Supply Bank](https://idwr.idaho.gov/iwrb/programs/water-supply-bank/pricing/)                                                                                                      | ID        | 2024, 2025  | Bank                 | \$23, \$33             |                   |
+| Demand Management Program (DMP)                                                                                                                                                           | UT        | 2025 - 2026 | Fallowing / Leasing  | \$190 - \$194          | 20k 22k           |
+| [DMP - Price River Water User Association Storage Forbearance Pilot Project](https://cra.utah.gov/utah-colorado-river-agricultural-water-resilience-demand-management-pilot-program-2-2/) | UT        | 2025-2026   | Forbear              | \$ 150                 | Upto 2k           |
+| [System Conservation Pilot Program](https://cra.utah.gov/system-conservation-pilot-program/)                                                                                              | UT        | 2024        | Forbear              | \$150                  |                   |
+| Cache Valley water bank model                                                                                                                                                             | UT        |             | Banking              | \$15 - \$300\*\*\`\*\* |                   |
+| Desalination Isreal desal cost Colorado                                                                                                                                                   |           |             |                      |                        |                   |
 
-## Calculations for water pricing (\$/acft) in Table
+## Calculations for water pricing (\$/acft) in Table 2
 
 ### Utah’s Demand Management Pilot Program
 
@@ -34,7 +40,7 @@ In the Colorado River Basin in Utah, the program is aimed at reducing water depl
 ![](media/da9203e8956578d057cc5597136befb6.png)  
 Figure 1: Possible range of water savings and estimated costs (Source: [Colorado River Authority of Utah](https://cra.utah.gov/wp-content/uploads/2026/02/20250618_FY26_WorkPlan_BOARD-APPROVED-w.-CH-edit-1.pdf))
 
-Thus, cost of water (\$/acft) = Compenstaion estimate (\$)/ Depletion Estimate (acft) = 190 - 194 \$/acft
+Thus, cost of water (\$/acft) = Compensation estimate (\$)/ Depletion Estimate (acft) = 190 - 194 \$/acft
 
 Price River Water User Association: [Forbearance Pilot Project](https://cra.utah.gov/utah-colorado-river-agricultural-water-resilience-demand-management-pilot-program-2-2/) cost of water = \$ 150 per acre-foot of conserved depletion.
 
@@ -44,4 +50,10 @@ Collaborators in the previous [immersive modeling](https://digitalcommons.usu.ed
 
 -   Collaborators quoted bench external benchmarks like the Upper Colorado River Basin and California (\~\$500/acft). In these cases, collaborators set the Cache Valley price at approximately 50% (\~\$250/acft).
 
-# 
+# Voluntary Contributions / Donations for GSL
+
+| Program / Entity                         | Contribution (acft) | Years | Focus |
+|------------------------------------------|---------------------|-------|-------|
+| UT Div of FFSL and and Compass Minerals  | 201 k               |       |       |
+|                                          |                     |       |       |
+|                                          |                     |       |       |
