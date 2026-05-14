@@ -36,7 +36,7 @@ To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverW
 
 ### Model Setup
 
-The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID users (Users below Bear Lake in ID) 3) Cache Valley, UT (Users in UT that are in Logan River – Little Bear River Watershed 4) Lower UT (Utah users excluding Cache Valley and Malad river users).
+The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID users (Users below Bear Lake in ID) 3) Cache Valley, UT (Users in UT that are in Logan River – Little Bear River Watershed 4) Lower UT (Utah users excluding Cache Valley and Malad river users),
 
 ![The image depicts a map showing various geographical locations in Idaho and Utah, including rivers, lakes, and towns such as Bear Lake, Cutthroat, and Salt Lake. AI-generated content may be incorrect.](media/ccd419567d7dd21000150964d9b6c737.jpeg)
 
@@ -44,7 +44,7 @@ Figure 2: Water Users as in the Immersive Model (Original Map: UT Division of Wa
 
 The model is set up for a seasonal time step as follows, October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade and pricing (Figure 2).
 
-![](media/5fe7677301e7a6c32655a0a4d03d3e4a.png)
+![](media/44cb43c652fb11c5ee1512bb62f69b44.png)
 
 Figure 3: Model setup and choices
 
@@ -53,27 +53,21 @@ Figure 3: Model setup and choices
 1.  All the depletions occur in the summer season. Winter depletions are negligible.
 2.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
 
-    *Natural Flow = Gaged Flow + depletions upstream.*
+    Natural Flow = Gaged Flow + depletions upstream.
 
-3.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
+3.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Cell 25 – 27 shows streamflow assumptions.
 4.  All the users in the model represent agricultural uses.
-5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to the water their water entitlement.
+5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to the water they are entitled to use.
 
 ### Considerations for Users
 
-1.  Users can only trade water with the bank.
-2.  WY, Upstream Bear Lake Users: The user can sell water to the bank but cannot conserve water for next years as they cannot draw water from the lake in next years.
-3.  Lower ID: The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be drawn in the subsequent years.
-4.  Cache Valley: Cache Valley users draw water from the Little Bear River – Logan River system.
-    -   The user cannot draw from or store water in the bear lake.
-    -   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or ‘bank’ in Cache Valley and made available in winter season (Ref: [Cache Valley Water Bank](https://www.hydroshare.org/resource/31793214a3794afd8a33141fda0933bf/)).
-5.  Lower UT
+1.  WY, Upstream Bear Lake Users: The user can sell water to the bank but cannot conserve water for next years as they cannot draw water from the lake in next years.
+2.  Lower ID: The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be draw in the subsequent years.
+3.  Cache Valley: Cache Valley users draw water from the Little Bear River – Logan River system, they cannot bank water in Bear Lake.
+    -   The user cannot draw from or store water in the bear lake (bank)
+    -   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or “Bank” in Cache Valley and made available in winter season (Ref: [Cache Valley Water Bank](https://www.hydroshare.org/resource/31793214a3794afd8a33141fda0933bf/)). This water is excluded from the banked water in Bear Lake.
+4.  Lower UT
     -   The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be drawn in the subsequent years.
-6.  For users downstream Bear Lake (Lower ID, Lower UT) : If the water use is less than the flow available, the water is delivered form the river flow.
-    -   If the water use is more than the flow available, the exceeded flow is delivered from the Bear Lake.
-7.  Bank
-    -   The bank manages two storages in the model. One is Bear Lake and the other is in Cache Valley.
-    -   The banked water is delivered to GSL In winter season when the diversions and losses are minimum.
 
 ### Additional Depletions Under Amended Bear River Compact
 
