@@ -58,6 +58,7 @@ Figure 3: Model setup and choices
 3.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
 4.  All the users in the model represent agricultural uses.
 5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to the water their water entitlement.
+6.  Users can only bank water from the current year’s flow available. They cannot bank water that was conserved in their account in the previous years.
 
 ### Considerations for Users
 
@@ -116,86 +117,110 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 
 Start of the water year: October
 
-2.  In **Cell 25**, select the Bear Lake starting level for start of the water year.
+2.  **Cell C13:** The user representing bank decides on a total budget for water bank assuming four years of operation.
+3.  In **Cell C25**, select the Bear Lake starting level for start of the water year.
     -   The model calculates the beginning of water year Bear Lake Storage.
 
 ![](media/1a700101ceb839d8885b1e08113b18b9.png)
 
 Figure 4: Historic elevation of Bear Lake at the beginning of water year(ft)
 
-3.  In **Cell 28,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
+4.  In **Row 29,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
     -   The model also shows the year for the selected flow.
 
 ![](media/2498a1cc954da85849f25248cac99605.png)
 
 Figure 5: Historic Natural Flows for Bear River Basin
 
-4.  **Row 32 - 36:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
+5.  **Row 32 - 36:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
     -   The winter natural flow from upstream bear lake is added to the bear lake storage (assuming there are no diversions in winter season).
 
 ### Bear Lake Operations
 
-5.  **Row 38 – 46** contains data for Bear Lake based on operation decision.
-6.  **Row 40:** select the March 1st Potential Target Elevation (PTE) for the Bear Lake. This is the elevation to be achieved for Bear Lake on March 31st. Historically, PTE is kept at 5916 ft for expected high runoff years to accommodate spring runoff, 5920 ft for low runoff years, and 5918 ft in average year ([Read about Potential Target Elevation](https://github.com/HaadiaBaig/BearRiverWaterBank#bear-lake-potential-target-elevation-pte)).
+6.  **Row 38 – 46** contains data for Bear Lake based on operation decision.
+7.  **Row 40:** select the March 1st Potential Target Elevation (PTE) for the Bear Lake. This is the elevation to be achieved for Bear Lake on March 31st. Historically, PTE is kept at 5916 ft for expected high runoff years to accommodate spring runoff, 5920 ft for low runoff years, and 5918 ft in average year ([Read about Potential Target Elevation](https://github.com/HaadiaBaig/BearRiverWaterBank#bear-lake-potential-target-elevation-pte)).
     -   If there is excess water in the lake corresponding to the lake level, excess water is spilled.
 
 ### Summer Flows (April – September)
 
-7.  **Row 48-52**, the model calculates the natural flow from April – September for each user.
-8.  **Row 54-58**, the model calculates the historic depletions by each user.
+8.  **Row 48-52**, the model calculates the natural flow from April – September for each user.
+9.  **Row 54-58**, the model calculates the historic depletions by each user.
 
     ![](media/5304f459a85b59b74dc7bdffa8982648.png)
 
 Figure 6: Historic Depletions in Bear River Basin
 
-### Participant Dashboard![](media/9add26ce49f6aa967c7103e93c43dc1d.png)
+### Participant Dashboard
+
+10. The participant dashboard is divided into two sections; one is for the water bank and the other is for the users
+11. **Cell C63** shows the total budget for the water bank. The user representing the bank chooses an estimated overhead cost.
+    -   The model calculates the budget available for water transactions.
+12. **Row 67**: The bank decides the budget for each year from the total budget,
+
+    ![](media/97f41ce5d4fd30c36fe439e8fb37a66b.png)]
+
+    Figure 7: User dashboard for bank choices
+
+13. **Row 69 – 157:** User dashboard for other water users.
+14. Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
+
+### ![](media/9add26ce49f6aa967c7103e93c43dc1d.png)
 
 Figure 7: Participant Dashboard in the model file
 
-9.  Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
-10. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
+15. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
     -   For Cache Valley, UT the non ag depletions are considered to be 0 as mainly all of the urban water is sourced from underground sources.
-11. Model allocates available natural flow to each user, calculated by the formula
+16. Model allocates available natural flow to each user, calculated by the formula
 
     *Available water = Natural Flow – Streamflow losses – Non-Ag Depletions – Upstream consumptive use derived from flow (if any) – water sold to the bank by upstream users – water conserved in the bank by upstream users.*
 
-12. Model shows if there is any additional depletion is allowed based on the Bear River Compact and / or other agreement.
-13. Model shows the historic consumptive use for the year for the user.
-14. In Year 2 – 4 User decides is they want to use any water from conserved storage from previous years.
-15. Model calculates the total depletions allowed based on historic uses, compact provisions and conserved storage if used.
+17. Model shows if there is any additional depletion is allowed based on the Bear River Compact and / or other agreement(s).
+18. Model shows the historic consumptive use for the year for the user.
+19. In Year 2 – 4 User decides is they want to use any water from conserved storage from previous years.
+20. Model calculates the total depletions allowed based on historic uses, compact provisions and conserved storage if used.
 
-    *Total Depletions allowed = Volume of historic consumptive use + Additional depletions possible based on compact provisions*
+    *Total Depletions allowed = Volume of historic consumptive use + Additional depletions possible based on compact provisions + water used from previous year banked storage (starting in Year 2).*
 
-16. The user decides the consumptive use of water that year based on ‘allowable depletions’ values.
+21. The user decides the consumptive use of water that year based on ‘allowable depletions’ values.
     -   If there is enough water available in the river, the user gets water from the available water. For users downstream Bear Lake, the users can take additional water from the lake to meet their consumptive use without a charge.
     -   If the available water is less than the historic water use, then the users can either decide to take water from the lake or sell their entitlement from the lake to the bank.
     -   If the user decides to consume more than allowed depletions, they need to buy the water from bank.
-17. Model shows the water available after consumptive use.
+22. Model shows the water available after consumptive use.
     -   The user decides how much water do they want to buy from or sell to the bank.
     -   If the user sells portion of their water available after consumptive use, the remaining water is added to the conserved water, that acts as the end of year account balance.
-18. Model calculates the water to sell or buy based on the user’s decision of consumptive use.
-19. User sets or negotiates the price of water (\$/acft) with the bank. [(See benchmarks for pricing.](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/Pricing.md#pricing))
-20. Model shows the net income or expense and the end of year account balance.
+23. Model calculates the water to sell or buy based on the user’s decision of consumptive use.
+24. User sets or negotiates the price of water (\$/acft) with the bank. [(See benchmarks for pricing.](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/Pricing.md#pricing))
+25. Model shows the net income or expense and the end of year account balance.
 
 ### Bank Summary
 
-21. **Row 143 – 158**, the model calculates the net water traded, the compensation (\$), and the end of year cumulative storage for the bank.
+26. **Row 159-172**, the model calculates the net water traded, the compensation (\$), and the end of year cumulative storage for the bank in Bear Lake and in Cache Valley.
+27. **Row 174-181:** Summary of the total budget, transaction costs each year and remaining budget for the water bank.
+
+*Remaining Total Budget (\$) = Total transaction costs in previous years + Transaction costs in present year.*
 
 ### End of Summer
 
 ### Bear Lake Summary
 
-22. Row **160 – 170**: The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses, trades and deliveries from Bear Lake have happened.
+28. Row **183-193:** The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses, trades and deliveries from Bear Lake have happened.
 
 ### Bank Delivery to the Great Salt Lake
 
-23. **Row 174**, model calculates the available Bear Lake storage using the formula
+29. **Row 197**: model calculates the available Bear Lake storage using the formula
     -   Available Bear Lake Storage = End of summer Lake storage – User accounts balance.
-24. Model calculates end of year cumulative bank storage.
-25. The bank decides how much water to deliver to the Great Salt Lake. It cannot deliver more than the cumulative bank storage available.
-26. **Row 177**: End of year bank storage = Cumulative bank storage – Water delivered to the GSL
-27. **Row 179-180**: Model calculates End of year Bear Lake storage and Levels.
-28. The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
+30. **Row 198-199:** Model calculates end of year bank storage.
+
+### Delivering Water for GSL
+
+31. **Row 200-202**: The bank decides how much water to deliver to the Great Salt Lake. It cannot deliver more than the end of year banked storage available.
+
+### End of year summary
+
+32. **Row 204-207:** End of year bank storage = Cumulative bank storage – Water delivered to the GSL
+33. **Row 208-209**: Model calculates End of year Bear Lake storage and Levels.
+    -   The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
+34. **Row 211:** Move to next year
 
 ## Pricing
 
