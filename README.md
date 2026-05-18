@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this immersive online collaborative model is to give collaborators the opportunity to immerse in and personify water user roles for a water bank for Bear River Basin. The tool is useful for two purposes; as researchers we want to know A) Why do people decide to consume, conserve, bank, and deliver water within the immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake?
+The purpose of this immersive online collaborative model is to help generate holistic strategies to get more water to Great Salt Lake. The tool is useful for two purposes; as researchers we want to know A) Why do people decide to consume, conserve, bank, and deliver water within the immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake?. Second, Collaborators get an opportunity to immerse in and personify water user roles in Bear River Basin, while making decisions to consume, conserve and bank water.
 
 ## Key Ideas
 
@@ -32,7 +32,7 @@ If the Bear Lake elevation is below the PTE from the end of the irrigation seaso
 
 ## Model
 
-To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve or trade water in the accounts. Read on for directions to use.
+To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘View raw’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve or trade water in the accounts. Read on for directions to use.
 
 ### Model Setup
 
@@ -97,7 +97,7 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 
 ### Setup
 
-1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer.
+1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer, (Click on ‘View raw’ to download the file).
 2.  Move the Excel file to your Google Drive. Open as a Google Sheet.
 3.  Open the *Versions* Worksheet to see updates.
 4.  Duplicate the *Model* Worksheet to work on in this session and save a blank version for later use.
@@ -108,8 +108,8 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 ### Use.
 
 1.  On the Model worksheet, scroll down Column B. The instructions are given in rows with Blue text. For example, in **Rows 6-11**, participants select a User and enter the User's Strategy to participate in the banking. If fewer than 5 participants, participants select multiple parties.
-    -   Sample strategies
-        -   Meet the water requirement for users.
+-   Sample strategies
+    -   Meet the water requirement for users.
         -   Preserve agricultural production. Buy if needed and sell if in excess.
         -   Save water to get to Great Salt Lake.
         -   Try banking to understand how it might work for the Bear River Basin.
@@ -153,15 +153,10 @@ Figure 6: Historic Depletions in Bear River Basin
 ### Participant Dashboard
 
 10. The participant dashboard is divided into two sections; one is for the water bank and the other is for the users
-11. **Cell C63** shows the total budget for the water bank. The user representing the bank chooses an estimated overhead cost.
+11. **Cell C63** shows the total budget for the water bank.
     -   The model calculates the budget available for water transactions.
-12. **Row 67**: The bank decides the budget for each year from the total budget,
-
-    ![](media/97f41ce5d4fd30c36fe439e8fb37a66b.png)]
-
-    Figure 7: User dashboard for bank choices
-
-13. **Row 69 – 157:** User dashboard for other water users.
+12. **Row 66**: Shows the remaining budget for each year.
+13. **Row 68 – 155:** User dashboard for other water users.
 14. Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
 
 ### ![](media/9add26ce49f6aa967c7103e93c43dc1d.png)
@@ -194,8 +189,8 @@ Figure 7: Participant Dashboard in the model file
 
 ### Bank Summary
 
-26. **Row 159-172**, the model calculates the net water traded, the compensation (\$), and the end of year cumulative storage for the bank in Bear Lake and in Cache Valley.
-27. **Row 174-181:** Summary of the total budget, transaction costs each year and remaining budget for the water bank.
+26. **Row 157-171**, the model calculates the net water traded, the compensation (\$), and the end of year cumulative storage for the bank in Bear Lake and in Cache Valley.
+27. **Row 173-178:** Summary of the total budget, transaction costs each year and remaining budget for the water bank.
 
 *Remaining Total Budget (\$) = Total transaction costs in previous years + Transaction costs in present year.*
 
@@ -203,22 +198,22 @@ Figure 7: Participant Dashboard in the model file
 
 ### Bear Lake Summary
 
-28. Row **183-193:** The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses, trades and deliveries from Bear Lake have happened.
+28. Row **180-190:** The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses, trades and deliveries from Bear Lake have happened.
 
 ### Bank Delivery to the Great Salt Lake
 
-29. **Row 197**: model calculates the available Bear Lake storage using the formula
+29. **Row 194**: model calculates the available Bear Lake storage using the formula
     -   Available Bear Lake Storage = End of summer Lake storage – User accounts balance.
-30. **Row 198-199:** Model calculates end of year bank storage.
+30. **Row 195-196:** Model calculates end of summer season bank storage.
 
 ### Delivering Water for GSL
 
-31. **Row 200-202**: The bank decides how much water to deliver to the Great Salt Lake. It cannot deliver more than the end of year banked storage available.
+31. **Row 197-198**: The bank decides how much water to deliver to the Great Salt Lake. It cannot deliver more than the end of year banked storage available.
 
 ### End of year summary
 
-32. **Row 204-207:** End of year bank storage = Cumulative bank storage – Water delivered to the GSL
-33. **Row 208-209**: Model calculates End of year Bear Lake storage and Levels.
+32. **Row 202-203:** End of year bank storage = Cumulative bank storage – Water delivered to the GSL
+33. **Row 205-206**: Model calculates End of year Bear Lake storage and Levels.
     -   The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
 34. **Row 211:** Move to next year
 
