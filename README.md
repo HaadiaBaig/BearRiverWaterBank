@@ -50,13 +50,13 @@ Figure 3: Model setup and choices
 
 ### Model Assumptions
 
-1.  All the depletions occur in the summer season. Winter depletions are negligible.
-2.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
+1.  All the users in the model represent agricultural uses.
+2.  All the depletions occur in the summer season. Winter depletions are negligible.
+3.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
 
     *Natural Flow = Gaged Flow + depletions upstream.*
 
-3.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
-4.  All the users in the model represent agricultural uses.
+4.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
 5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to the water their water entitlement.
 6.  Users can only bank water from the current year’s flow available. They cannot bank water that was conserved in their account in the previous years.
 
