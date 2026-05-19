@@ -2,11 +2,11 @@
 
 ## Purpose
 
-The purpose of this immersive online collaborative model is to help generate holistic strategies to get more water to Great Salt Lake. The tool is useful for two purposes; as researchers we want to know A) Why do people decide to consume, conserve, bank, and deliver water within the immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake?. Second, Collaborators get an opportunity to immerse in and personify water user roles in Bear River Basin, while making decisions to consume, conserve and bank water.
+The purpose of this immersive online collaborative model is to help generate holistic strategies to get more water to the Great Salt Lake. The tool is useful for two purposes; as researchers we want to know A) Why do people decide to consume, conserve, bank, and deliver water within the immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake? Second, collaborators get an opportunity to immerse in and personify water user roles in Bear River Basin, while making decisions to consume, conserve, and bank water.
 
 ## Key Ideas
 
-The model works on the following principles: A) Store winter flows in Bear Lake B) Allocate summer natural flows to users based on historic flows C) Allocate water from Bear River or from Bear Lake storage (if applicable) D) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices E) Bank decides the amount of water to deliver to GSL based on the banked water.
+The model is based on the following principles: A) Store winter flows in Bear Lake B) Allocate summer natural flows to users based on historic flows C) Allocate water from Bear River or from Bear Lake storage (if applicable) D) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices E) Bank decides the amount of water to deliver to GSL from the banked water.
 
 ### Bear River Basin
 
@@ -14,7 +14,7 @@ Bear River is an interstate river in Utah, Wyoming, and Idaho, encompassing appr
 
 The water allocation and management in the Bear River Basin are governed by an interconnected framework of interstate compacts, federal legislation, court decrees, state water laws, and administrative institutions ([Read more on Bear River Compact and agreements](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/BearRiverManagement.md#bear-river-basin-management)).
 
-Bear Lake is a large natural freshwater lake located on the Utah–Idaho border and. It functions as a major storage reservoir, regulating flows in the Bear River for irrigation and hydropower generation. Bear Lake is also ecologically significant and supports unique native fish species and important recreational activities.
+Bear Lake is a large natural freshwater lake on the Utah–Idaho border. It functions as a major storage reservoir, regulating flows in the Bear River for irrigation and hydropower generation. Bear Lake is also ecologically significant and supports native fish species and important recreational activities.
 
 ![](media/efb205682cd25cc0b07362c743f00818.png)
 
@@ -24,7 +24,7 @@ Figure 1: Bear Lake Storage Profile
 
 The Bear Lake's level is managed based on its level at the end of the irrigation season. PacifiCorp determines the PTE, which represents the elevation of Bear Lake to be achieved on March 31st of each year. PTE ranges from 5916 ft - 5920 ft (high runoff – low runoff), and is adjusted to accommodate changing weather forecasts, downstream constraints, irrigation demands. and runoff variations
 
-**PTE Aug – Dec:** PacifiCorp sets the PTE at the end of the irrigation season which is updated monthly until March 31st of the following year. During the irrigation season, if lake elevation is greater than 5,918 and the irrigation demand for storage water is not enough to reach 5,918 by the end of the irrigation season, stored water may be released in late July/August.
+**PTE Aug – Dec:** PacifiCorp sets the PTE at the end of the irrigation season, which is updated monthly until March 31st of the following year. During the irrigation season, if lake elevation is greater than 5,918 and the irrigation demand for storage water is not enough to reach 5,918 by the end of the irrigation season, stored water may be released in late July/August.
 
 **PTE Jan – Mar:** PaciCorp adjusts the PTE as per spring runoff forecasts and local inflows to the lake. Under normal conditions, PacifiCorp sets PTE at 5918 ft. If the elevation is 5918 ft or higher, releases are scheduled to maintain this level by March 31st. If it's below 5918 ft, water releases are delayed until forecasts indicate the lake can reach that elevation or if high snowpack requires flood control releases. During winter, if forecasts suggest below-average runoff, releases may be curtailed even if the elevation exceeds 5918 ft. Generally, water will not be released from Bear Lake when its elevation is below the PTE, except during emergencies or for flood control. This strategy balances long-term water supply needs during droughts with flood control requirements.
 
@@ -38,11 +38,11 @@ To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverW
 
 The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID users (Users below Bear Lake in ID) 3) Cache Valley, UT (Users in UT that are in Logan River – Little Bear River Watershed 4) Lower UT (Utah users excluding Cache Valley and Malad river users).
 
-![The image depicts a map showing various geographical locations in Idaho and Utah, including rivers, lakes, and towns such as Bear Lake, Cutthroat, and Salt Lake. AI-generated content may be incorrect.](media/ccd419567d7dd21000150964d9b6c737.jpeg)
+![](media/663b9cb5558c024e5f7c6fb90a1c0c0f.png)
 
 Figure 2: Water Users as in the Immersive Model (Original Map: UT Division of Water Rights)
 
-The model is set up for a seasonal time step as follows, October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade and pricing (Figure 2).
+The model is set up for a seasonal time step as follows: October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade, and pricing (Figure 2).
 
 ![](media/5fe7677301e7a6c32655a0a4d03d3e4a.png)
 
@@ -74,7 +74,7 @@ Figure 3: Model setup and choices
     -   If the water use is more than the flow available, the exceeded flow is delivered from the Bear Lake.
 7.  Bank
     -   The bank manages two storages in the model. One is Bear Lake and the other is in Cache Valley.
-    -   The banked water is delivered to GSL In winter season when the diversions and losses are minimum.
+    -   The banked water is delivered to GSL in winter season when the diversions and losses are minimum.
 
 ### Additional Depletions Under Amended Bear River Compact
 
