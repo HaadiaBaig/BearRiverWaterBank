@@ -97,7 +97,7 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 
 The following section contains details on how to guide a model session.
 
-### [Model Guide](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/Session%20Guide/SessionGuide.md#requirements)
+### [Session Guide](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/Session%20Guide/SessionGuide.md#requirements)
 
 ## Pricing
 
