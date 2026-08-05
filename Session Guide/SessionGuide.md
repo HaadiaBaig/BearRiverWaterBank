@@ -1,4 +1,4 @@
-# Immersive Model for a Water Bank for Bear River Basin- Session Guide
+# Immersive Model for a Water Bank for Bear River Basin - Session Guide
 
 ## Purpose
 
@@ -23,12 +23,14 @@ The purpose of this immersive online collaborative model is to help generate hol
     1.  In the upper right of the Google Sheet, click the Share button.
     2.  Add emails and set permissions so players can access the Google Sheet. Or copy and share the sheet's URL.
 
-### Use.
+### Use
 
 1.  On the Model worksheet, scroll down Column B. The instructions are given in rows with Blue text. For example, in **Rows 6-11**, participants select a User and enter the User's Strategy to participate in the banking. If fewer than 5 participants, participants select multiple parties.
--   Sample strategies
-    -   Meet the water requirement for users.
-        -   Preserve agricultural production. Buy if needed and sell if in excess.
+
+#### Sample strategies
+
+-   Meet the water requirement for users.
+    -   Preserve agricultural production. Buy if needed and sell if in excess.
         -   Save water to get to the Great Salt Lake.
         -   Try banking to understand how it might work for the Bear River Basin.
         -   Bank stores water in Bear Lake in summer, deliver to GSL in winter.
