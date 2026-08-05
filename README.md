@@ -51,28 +51,25 @@ Figure 3: Model setup and choices
 ### Model Assumptions
 
 1.  All the users in the model represent agricultural uses.
-2.  All the depletions occur in the summer season. Winter depletions are negligible.
+2.  All the depletions occur in summer. Winter depletions are negligible.
 3.  We use natural flow in the model. It is the flow that would have been observed if there were no depletions,
 
     *Natural Flow = Gaged Flow + depletions upstream.*
 
 4.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
-5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to the water their water entitlement.
-6.  Users can only bank water from the current year’s flow available. They cannot bank water that was conserved in their account in the previous years.
+5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to their water entitlement. They might have some additional water available based on compact allocations or conserved water available from previous years.
+6.  Decisions are made on a yearly basis available.
 
 ### Considerations for Users
 
-1.  Users can only trade water with the bank.
-2.  WY, Upstream Bear Lake Users: The user can sell water to the bank but cannot conserve water for next years as they cannot draw water from the lake in next years.
-3.  Lower ID: The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be drawn in the subsequent years.
-4.  Cache Valley: Cache Valley users draw water from the Little Bear River – Logan River system.
+1.  Users can only trade water with the bank and not amongst themselves.
+2.  WY, Upstream Bear Lake Users, Lower ID, Lower UT: The users can sell water to the bank, and conserve water in the bear lake (bank) to be drawn in the subsequent years.
+3.  Cache Valley: Cache Valley users draw water from the Little Bear River – Logan River system.
     -   The user cannot draw from or store water in the bear lake.
     -   The net water available from Cache Valley for the “Bank” is assumed to kept in reservoirs or ‘bank’ in Cache Valley and made available in winter season (Ref: [Cache Valley Water Bank](https://www.hydroshare.org/resource/31793214a3794afd8a33141fda0933bf/)).
-5.  Lower UT
-    -   The user can sell water to the bank, draw from and conserve water in the bear lake (bank) to be drawn in the subsequent years.
-6.  For users downstream Bear Lake (Lower ID, Lower UT) : If the water use is less than the flow available, the water is delivered form the river flow.
+4.  For users downstream Bear Lake (Lower ID, Lower UT) : If the water use is less than the flow available, the water is delivered from the river flow.
     -   If the water use is more than the flow available, the exceeded flow is delivered from the Bear Lake.
-7.  Bank
+5.  Bank
     -   The bank manages two storages in the model. One is Bear Lake and the other is in Cache Valley.
     -   The banked water is delivered to GSL in winter season when the diversions and losses are minimum.
 
@@ -82,9 +79,9 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 
 1.  The Upper and Central Divisions (Upstream Bear Lake users in our model) are allowed an additional storage of 74,000 ac-ft such that the depletions do not exceed 28,000 ac-ft in any year **IF** the Bear Lake level on Apr 1st is more than 5911 ft. In the model, this depletion amount is used. If users don’t deplete this amount, it is sold to the bank.
 2.  ID is allowed first right to an additional 125,000 ac-ft of depletion if water is available.
-    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
+    -   In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
 3.  UT is allowed an additional 275,000 ac-ft of depletions if water is available.
-    1.  In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
+    -   In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
 
 ### Requirements
 
