@@ -32,7 +32,7 @@ If the Bear Lake elevation is below the PTE from the end of the irrigation seaso
 
 ## Model
 
-To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘View raw’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve or trade water in the accounts. Read on for directions to use.
+To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘View raw’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve, or trade water in the accounts. Read on for directions on how to use.
 
 ### Model Setup
 
@@ -42,7 +42,7 @@ The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID 
 
 Figure 2: Water Users as in the Immersive Model (Original Map: UT Division of Water Rights)
 
-The model is set up for a seasonal time step as follows: October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade, and pricing (Figure 2).
+The model is set up for a seasonal time step: October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade, and pricing (Figure 2).
 
 ![](media/5fe7677301e7a6c32655a0a4d03d3e4a.png)
 
@@ -58,7 +58,7 @@ Figure 3: Model setup and choices
 
 4.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
 5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to their water entitlement. They might have some additional water available based on compact allocations or conserved water available from previous years.
-6.  Decisions are made on a yearly basis available.
+6.  Decisions are made on a yearly basis.
 
 ### Considerations for Users
 
