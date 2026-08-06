@@ -2,13 +2,13 @@
 
 ## Purpose
 
-The purpose of this immersive online collaborative model is to help generate holistic strategies to get more water to the Great Salt Lake. The tool is useful for two purposes; as researchers we want to know A) Why do people decide to consume, conserve, bank, and deliver water within the immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake? Second, collaborators get an opportunity to immerse in and personify water user roles in Bear River Basin, while making decisions to consume, conserve, and bank water.
+The purpose of this immersive online collaborative model is to help generate holistic strategies to get more water to the Great Salt Lake. The tool is useful for two purposes: as researchers, we want to know A) Why do people decide to consume, conserve, bank, and deliver water within immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake? Second, collaborators get an opportunity to immerse in and personify water user roles in Bear River Basin, while making decisions to consume, conserve, and bank water.
 
 ## Key Ideas
 
 The model is based on the following principles: A) Store winter flows in Bear Lake B) Allocate summer natural flows to users based on historic flows C) Allocate water from Bear River or from Bear Lake storage (if applicable) D) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices E) Bank decides the amount of water to deliver to GSL from the banked water.
 
-### Bear River Basin
+## Bear River Basin
 
 Bear River is an interstate river in Utah, Wyoming, and Idaho, encompassing approximately 500 square miles. It originates in the Uinta Mountains of northeastern Utah, flows north into Wyoming, then west and south through Idaho, and ultimately returns to Utah before discharging into the Great Salt Lake. Key hydrologic features of the basin include Bear Lake, a large natural lake used for water storage and hydropower regulation, and a system of reservoirs, diversions, and irrigation infrastructure that support agricultural, municipal, industrial, and ecological uses. Average annual flows vary considerably due to snowpack-driven runoff and climatic conditions, requiring coordinated interstate management under established legal and operational frameworks.
 
@@ -56,7 +56,7 @@ Figure 3: Model setup and choices
 
     *Natural Flow = Gaged Flow + depletions upstream.*
 
-4.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach for summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
+4.  The streamflow losses (evaporation, seepage, delivery losses) are assumed to be 10% for each reach during the summer season and 3.33% (1/3rd of summer season) for winter season. Row 21-22 shows streamflow assumptions.
 5.  The users make decisions to consume, conserve, or trade water based on historic water use, which is used in the model as a proxy to their water entitlement. They might have some additional water available based on compact allocations or conserved water available from previous years.
 6.  Decisions are made on a yearly basis.
 
@@ -110,13 +110,24 @@ The following section contains details on how to guide a model session.
 
 #### Sample strategies
 
--   Meet the water requirement for users.
-    -   Preserve agricultural production. Buy if needed and sell if in excess.
-        -   Save water to get to the Great Salt Lake.
-        -   Try banking to understand how it might work for the Bear River Basin.
-        -   Bank stores water in Bear Lake in summer, deliver to GSL in winter.
+**Users**
 
-Start of the water year: October
+-   Keep available water for irrigation.
+-   Preserve agriculture (90%), conserve to 10% buffer, bank all else
+-   Maximize profitability while balancing Great Salt Lake deliveries
+-   Protect agricultural areas / users.
+-   Maximize profits.
+-   Preserve agricultural production. Buy if needed and sell if in excess.
+-   Save water to get to the Great Salt Lake.
+
+**Bank**
+
+-   Maximize number of transactions and water delivered to GSL.
+-   Maximize Great Salt Lake conserved water
+-   Bank stores water in Bear Lake in summer, deliver to GSL in winter.
+-   Try banking to understand how it might work for the Bear River Basin.
+
+### Start of the water year: October
 
 2.  **Cell C13:** The user representing bank decides on a total budget for water bank assuming four years of operation.
 3.  In **Cell C25**, select the Bear Lake starting level for start of the water year.
