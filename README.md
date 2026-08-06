@@ -166,9 +166,8 @@ Figure 6: Historic Depletions in Bear River Basin
 
 10. The participant dashboard is divided into two sections; one is for the water bank and the other is for the users
 11. **Cell C63** shows the total budget for the water bank.
-    -   The model calculates the budget available for water transactions.
-12. **Row 66**: Shows the remaining budget for each year.
-13. **Row 68 – 155:** User dashboard for other water users.
+12. **Row 66**: Shows the remaining bank budget for each year.
+13. **Row 69 – 162:** User dashboard for other water users.
 14. Beginning of year account balance: It is the water conserved in the previous year, its ‘0’ for Year 1.
 
 ### ![](media/9add26ce49f6aa967c7103e93c43dc1d.png)
@@ -201,8 +200,9 @@ Figure 7: Participant Dashboard in the model file
 
 ### Bank Summary
 
-26. **Row 157-171**, the model calculates the net water traded, the compensation (\$), and the end of year cumulative storage for the bank in Bear Lake and in Cache Valley.
-27. **Row 173-178:** Summary of the total budget, transaction costs each year and remaining budget for the water bank.
+26. **Row 164-178**, the model calculates the net water traded, the compensation (\$), and the end-of-year cumulative storage for the bank in Bear Lake and in Cache Valley.
+27. **Row 180- 184,** the model calculates the total net water traded by the bank and the net storage available in the bank.
+28. **Row 186-191:** Summary of the total budget, transaction costs each year and remaining budget for the water bank.
 
 *Remaining Total Budget (\$) = Total transaction costs in previous years + Transaction costs in present year.*
 
@@ -210,24 +210,26 @@ Figure 7: Participant Dashboard in the model file
 
 ### Bear Lake Summary
 
-28. Row **180-190:** The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses, trades and deliveries from Bear Lake have happened.
+29. Row **193-203:** The model summarizes the Bear Lake levels at the beginning of year and at the end of summer after all uses, trades and deliveries from Bear Lake have happened.
 
 ### Bank Delivery to the Great Salt Lake
 
-29. **Row 194**: model calculates the available Bear Lake storage using the formula
-    -   Available Bear Lake Storage = End of summer Lake storage – User accounts balance.
-30. **Row 195-196:** Model calculates end of summer season bank storage.
+30. **Row 207**: model calculates the available Bear Lake storage using the formula,
+
+    Available Bear Lake Storage = End of summer Lake storage – User accounts balance in Bear Lake.
+
+31. **Row 208-209:** Model calculates the end of summer season bank storage.
 
 ### Delivering Water for GSL
 
-31. **Row 197-198**: The bank decides how much water to deliver to the Great Salt Lake. It cannot deliver more than the end of year banked storage available.
+32. **Row 210-211**: The bank decides how much water to deliver to the Great Salt Lake. It cannot deliver more than the end-of-year banked storage available.
 
-### End of year summary
+### End of year bank summary
 
-32. **Row 202-203:** End of year bank storage = Cumulative bank storage – Water delivered to the GSL
-33. **Row 205-206**: Model calculates End of year Bear Lake storage and Levels.
+33. **Row 214-216:** End of year bank storage = Cumulative bank storage – Water delivered to the GSL
+34. **Row 205-206**: Model calculates End of year Bear Lake storage and Levels.
     -   The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
-34. **Row 211:** Move to next year
+35. **Row 221:** Move to next year
 
 ## Pricing
 
