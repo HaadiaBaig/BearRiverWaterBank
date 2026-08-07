@@ -113,8 +113,8 @@ The following section contains details on how to guide a model session.
 **Users**
 
 -   Keep available water for irrigation.
--   Preserve agriculture (90%), conserve to 10% buffer, bank all else
--   Maximize profitability while balancing Great Salt Lake deliveries
+-   Preserve agriculture (90%), conserve to 10% buffer, bank all else.
+-   Maximize profitability while balancing Great Salt Lake deliveries.
 -   Protect agricultural areas / users.
 -   Maximize profits.
 -   Preserve agricultural production. Buy if needed and sell if in excess.
@@ -123,7 +123,7 @@ The following section contains details on how to guide a model session.
 **Bank**
 
 -   Maximize number of transactions and water delivered to GSL.
--   Maximize Great Salt Lake conserved water
+-   Maximize Great Salt Lake conserved water.
 -   Bank stores water in Bear Lake in summer, deliver to GSL in winter.
 -   Try banking to understand how it might work for the Bear River Basin.
 
