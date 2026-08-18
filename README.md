@@ -83,6 +83,8 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 3.  UT is allowed an additional 275,000 ac-ft of depletions if water is available.
     -   In the model. If users have excess water available and they don’t deplete this amount, it can be conserved or sold to the bank.
 
+## Directions to Guide a Model Session
+
 ### Requirements
 
 1.  Session Guide: 1 person to set up in Google Sheets (see Setup below), invite participants, and organize play.
@@ -90,15 +92,13 @@ Different divisions in the Bear River Basin are allowed additional storage or de
 3.  Time: 1 to 2 hours.
 4.  Software: Session Guide has a Google Account.
 
-## Directions to Guide a Model Session
-
 The following section contains details on how to guide a model session.
 
 ### Setup
 
 1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer, (Click on ‘View raw’ to download the file).
 2.  Move the Excel file to your Google Drive. Open as a Google Sheet.
-3.  Open the *Versions* Worksheet to see updates.
+3.  Open the *Versions* worksheet to see updates.
 4.  Duplicate the *Model* Worksheet to work on in this session and save a blank version for later use.
 5.  Invite 1 or more other people to join the Google Sheet.
     1.  In the upper right of the Google Sheet, click the Share button.
