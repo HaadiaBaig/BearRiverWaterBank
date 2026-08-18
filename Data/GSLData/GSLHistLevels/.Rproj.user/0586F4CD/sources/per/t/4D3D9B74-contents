@@ -1,0 +1,23 @@
+library(dataRetrieval)
+library(lubridate)
+library(dplyr)
+library(reshape2)
+library(ggplot2)
+library(tidyr)
+library(readr)
+
+
+#Download daily data water year 2000- 2025
+data <- readNWISdv(  "10010000", "62614",
+  "1999-01-01", "2025-12-30")
+
+#Remove unnecessary columns
+data <- data[,-5]
+data <- data[,-1]
+
+
+#Rename
+colnames(data)[3] <- "LakeLevel(ft)"
+
+write.csv(data, "GSL.csv")
+

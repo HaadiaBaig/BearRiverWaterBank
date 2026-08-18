@@ -95,7 +95,7 @@ unique(WB$Variable)
 colnames(WB)[2] <- "Site"
 
 WB1 <- WB %>%
-  filter(Basin == "Bear River")
+  filter(Basin %in% c("Bear River", "Weber River", "Jordan River"))
 
 WB1 <- WB1 %>%
   mutate(Site = case_when(
