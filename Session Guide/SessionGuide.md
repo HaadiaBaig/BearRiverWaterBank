@@ -149,21 +149,9 @@ Figure 7: Participant Dashboard in the model file
 
 35. **Row 245-247:** End of year bank storage = Cumulative bank storage – Water delivered to the GSL.
 36. **Row 250-252:** End of Year GSL levels, volume and surface area.
-37. **Row 254-255**: Model calculates end of year Bear Lake storage and elevation.
+37. **Row 254-255**: Model calculates end of year Bear Lake storage and elev.
     -   The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
 38. **Row 257:** Move to next year
-
-## Pricing
-
-There is no set pricing standard for water markets in Utah. Some benchmarks can be used to justify pricing ([Read about pricing strategies](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/Pricing.md#pricing)).
-
-## File Description
-
-1.  Data \> Natural Flow: Data and R code to calculate Natural Flow for the model users.
-2.  IRB: Approved documents for Institutional Review Board.
-3.  Model Files \> [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) : Model file for Bear River Water Bank
-
-Experiments: Older v
 
 ## Pricing
 
