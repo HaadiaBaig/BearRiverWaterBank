@@ -8,11 +8,11 @@ The purpose of this immersive online collaborative model is to help generate hol
 
 The model is based on the following principles: A) Store winter flows in Bear Lake B) Allocate summer natural flows to users based on historic flows C) Allocate water from Bear River or from Bear Lake storage (if applicable) D) Users consume, conserve or trade within their available water, other’s choices, and real-time discussion of choices E) Bank decides the amount of water to deliver to GSL from the banked water.
 
-## Great Salt Lake
+## Great Salt Lake: Why it matters?
 
-Great Salt Lake is the largest saline lake in the western US. Its spans roughly 1,700 square miles of open water and 360,000 acres of surrounding wetlands at its healthier elevations. It receives most of its inflow from the Bear, Weber, and Jordan Rivers, Bear River contributing about 60% of the inflows. It sustains roughly 80% of the state's wetlands and hosts an estimated 10 million migratory birds across more than 330 species each year, while also anchoring industries - mineral extraction, brine shrimp harvesting, and recreation - that together contribute an estimated \$1.9–2.5 billion to Utah's economy annually([Utah Division of Natural Resources](https://water.utah.gov/wp-content/uploads/2022/11/Great-Salt-Lake-overview.pdf), [FRIENDS of Great Salt Lake](https://fogsl.org/about/map)).
+Great Salt Lake is the largest saline lake in the western US. Its spans roughly 1,700 square miles of open water and 360,000 acres of surrounding wetlands at its healthier elevations. It sustains roughly 80% of the state's wetlands and hosts an estimated 10 million migratory birds across more than 330 species each year as a critical stop on the Pacific and Central Flyways, while also anchoring industries - mineral extraction, brine shrimp harvesting, and recreation - that together contribute an estimated \$1.9–2.5 billion to Utah's economy annually([Utah Division of Natural Resources](https://water.utah.gov/wp-content/uploads/2022/11/Great-Salt-Lake-overview.pdf), [FRIENDS of Great Salt Lake](https://fogsl.org/about/map)).
 
-## GSL Levels
+### GSL Levels
 
 Over the past two decades, the lake has been below the "optimal" elevation range of 4,198 - 4,205 feet, hitting a historic low of 4,188.5 feet in 2022 and sitting at roughly 4,190 feet as of mid-2026 which is still several feet below the minimum healthy level of 4,198 feet.
 
@@ -20,13 +20,13 @@ Over the past two decades, the lake has been below the "optimal" elevation range
 
 Figure: GSL historical levels with reference healthy, transitionary and adverse effects zones. Source ([Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf))
 
-## How much water do we need to recover the lake levels?
+As the lake shrinks, exposed lakebed becomes a source of wind-blown dust — some of it containing heavy metals such as arsenic, lead, and cadmium - which is a growing air-quality and public-health concern for the Wasatch Front. Lower lake levels also mean less "lake-effect" moisture reaching nearby mountains; the lake is credited with contributing roughly 5-10% of the region's celebrated snowpack and extending the ski season by five to seven weeks ([FRIENDS of Great Salt Lake](https://fogsl.org/about/map)).
 
-It is estimated that we will need about 800,000 acre-feet of sustained additional inflowe per year to return the lake to healthy levels (4,198 feet) by 2055 ([Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf)).
+### Closing the gap:How much water do we need to recover the lake levels?
 
-Separately, USU researchers estimated the lake would need an additional 800,000 acre-feet per year just to have a 47% chance of reaching the minimum healthy level in time for the 2034 Winter Olympics. Between 2021 and 2025, only about 400,000 acre-feet total were dedicated and delivered to the lake
+It is estimated that we will need about 800,000 acre-feet of sustained additional inflowe per year to return the lake to healthy levels (4,198 feet) by 2055 ([Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf)). Between 2021 and 2025, only about 400,000 acre-feet total were dedicated and delivered to the lake.
 
-The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rivers, where Bear River contributes 60% of the inflows, making upstream management decisions in basins like the Bear River directly consequential for the lake's health. This immersive water bank model is designed to help explore how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water to the lake.
+The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rivers, where the Bear River contributes 60% of the inflows, making upstream management decisions in basins like the Bear River directly consequential for the lake's health. This immersive water bank model is designed to help explore how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water to the lake.
 
 ## Bear River Basin
 
