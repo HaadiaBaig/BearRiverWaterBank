@@ -30,7 +30,7 @@ It is estimated that we will need about **800,000 acre-feet** (some estimates of
 
 The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rivers, where the Bear River contributes 60% of the inflows, making upstream management decisions in basins like the Bear River directly consequential for the lake's health.
 
-(Read More About GSL)
+([Read More About GSL](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/GreatSaltLake.md#great-salt-lake))
 
 ## Bear River Basin
 
@@ -56,7 +56,7 @@ If the Bear Lake elevation is below the PTE from the end of the irrigation seaso
 
 ## The Challenge
 
-A consistent theme across these studies is that **conservation alone is not sufficient;** water that is saved through efficiency or reduced consumption has to actually reach and stay in the river system (rather than being reallocated to new uses) in order to raise the lake. ([University of Utah, Strike Team roadmap](https://attheu.utah.edu/science-technology/strike-team-updates-roadmap-for-rescuing-great-salt-lake-identifying-how-much-water-is-needed/)). This is exactly the function a water bank like the one modeled for the Bear River Basin is designed to provide: it aggregates water conserved, sold, or banked by upstream and downstream users and delivers a defined volume to GSL, primarily in the winter when diversions and losses are lowest. This immersive water bank model explores how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water sustained over years to the lake to reach the minimum healthy level of 4,198 ft — and eventually toward the broader 4,198 - 4,205 ft target range.
+A consistent theme across these studies is that **conservation alone is not sufficient;** water that is saved through efficiency or reduced consumption has to actually reach and stay in the river system (rather than being reallocated to new uses) in order to raise the lake. ([University of Utah, Strike Team roadmap](https://attheu.utah.edu/science-technology/strike-team-updates-roadmap-for-rescuing-great-salt-lake-identifying-how-much-water-is-needed/)). This is exactly the function a water bank like the one modeled for the Bear River Basin is designed to provide: it aggregates water conserved, sold, or banked by upstream and downstream users and delivers a defined volume to GSL, primarily in the winter when diversions and losses are lowest. This immersive water bank model explores how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water sustained over years to the lake to reach the minimum healthy level of 4,198 ft - and eventually toward the broader 4,198 - 4,205 ft target range.
 
 ## Model
 
