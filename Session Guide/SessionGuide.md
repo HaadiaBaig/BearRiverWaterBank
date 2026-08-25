@@ -54,16 +54,21 @@ The following section contains details on how to guide a model session.
 
 ![The diagram illustrates the historical elevation data of Bear Lake over various years, with a focus on the minimum and maximum elevations, and the water year timeline. AI-generated content may be incorrect.](media/1a700101ceb839d8885b1e08113b18b9.png)
 
-Figure 4: Historic elevation of Bear Lake at the beginning of water year(ft)
+Figure 1: Historic elevation of Bear Lake at the beginning of water year(ft)
 
 4.  In **Row 35,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
     -   The model also shows the year for the selected flow.
 
 ![The image is a line chart depicting the historical flow rates (in million acre-feet) of the Bear River Basin across various locations in Utah and Idaho, from 2004 to 2021. AI-generated content may be incorrect.](media/2498a1cc954da85849f25248cac99605.png)
 
-Figure 5: Historic Natural Flows for Bear River Basin
+Figure 2: Historical Natural Flows for Bear River Basin
 
 5.  **Row 38-43:** The model shows the GSL levels, volume and the surface area at the start of the water year for corresponding year.
+
+![](media/ebbb75c9b4d6e1268de9ab965829f6ae.png)
+
+Figure 3: Historical Great Salt Lake Levels
+
 6.  **Row 45 - 49:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
     -   The winter natural flow from upstream bear lake is added to the bear lake storage (assuming there are no diversions in winter season).
 
@@ -80,7 +85,7 @@ Figure 5: Historic Natural Flows for Bear River Basin
 
     ![The image shows a line graph depicting the historical depletion of water levels in the Bear River Basin from 2004 to 2021, with specific depletion figures for Upper, Lower, and Lower UT Users, and various points such as UT, WY, and Cache Valley. AI-generated content may be incorrect.](media/5304f459a85b59b74dc7bdffa8982648.png)
 
-Figure 6: Historic Depletions in Bear River Basin
+Figure 4: Historical Depletions in Bear River Basin
 
 ### Participant Dashboard
 
@@ -92,7 +97,7 @@ Figure 6: Historic Depletions in Bear River Basin
 
 ### ![](media/9add26ce49f6aa967c7103e93c43dc1d.png)
 
-Figure 7: Participant Dashboard in the model file
+Figure 5: Participant Dashboard in the model file
 
 16. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
     -   For Cache Valley, UT the non ag depletions are considered to be 0 as mainly all of the urban water is sourced from underground sources.
