@@ -28,17 +28,13 @@ As the lake shrinks, exposed lakebed becomes a source of wind-blown dust, some o
 
 It is estimated that we will need about **800,000 acre-feet** (some estimates of 1M acft) of sustained additional inflow per year to return the lake to healthy levels (4,198 feet) by 2055. This is equivalent to over four years of all human water use in Utah combined. Between 2021 and 2025, only about 400,000 acre-feet total were dedicated and delivered to the lake against a target of 471,000-1,055,000 acre-feet per year needed to reach 4,198 ft ([Utah Rivers Council](https://utahrivers.org/protecting-the-great-salt-lake), [Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf)). ([Read More About GSL](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/GreatSaltLake.md#great-salt-lake))
 
-## The Challenge
-
-**Conservation alone is not sufficient;** any saved water has to actually reach and stay in the river system (rather than being reallocated to new uses) in order to raise the lake. ([University of Utah, Strike Team roadmap](https://attheu.utah.edu/science-technology/strike-team-updates-roadmap-for-rescuing-great-salt-lake-identifying-how-much-water-is-needed/)). This is exactly the function a water bank like the one modeled for the Bear River Basin is designed to provide: it aggregates water sold/banked by users and delivers a defined volume to GSL, primarily in the winter when diversions and losses are lowest. This immersive water bank model also explores how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water sustained over years to the lake.
-
-The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rivers, where the Bear River contributes 60% of the inflows, making upstream management decisions in basins like the Bear River directly consequential for the lake's health.
-
 ## Bear River Basin
 
 Bear River is an interstate river in Utah, Wyoming, and Idaho, encompassing approximately 500 square miles. It originates in the Uinta Mountains of northeastern Utah, flows north into Wyoming, then west and south through Idaho, and ultimately returns to Utah before discharging into the Great Salt Lake. Key hydrologic features of the basin include Bear Lake, a large natural lake used for water storage and hydropower regulation, and a system of reservoirs, diversions, and irrigation infrastructure that support agricultural, municipal, industrial, and ecological uses. Average annual flows vary considerably due to snowpack-driven runoff and climatic conditions, requiring coordinated interstate management under established legal and operational frameworks.
 
 The water allocation and management in the Bear River Basin are governed by an interconnected framework of interstate compacts, federal legislation, court decrees, state water laws, and administrative institutions ([Read more on Bear River Compact and agreements](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/BearRiverManagement.md#bear-river-basin-management)).
+
+## Bear Lake
 
 Bear Lake is a large natural freshwater lake on the Utah–Idaho border. It functions as a major storage reservoir, regulating flows in the Bear River for irrigation and hydropower generation. Bear Lake is also ecologically significant and supports native fish species and important recreational activities.
 
@@ -55,6 +51,20 @@ The Bear Lake's level is managed based on its level at the end of the irrigation
 **PTE Jan – Mar:** PaciCorp adjusts the PTE as per spring runoff forecasts and local inflows to the lake. Under normal conditions, PacifiCorp sets PTE at 5918 ft. If the elevation is 5918 ft or higher, releases are scheduled to maintain this level by March 31st. If it's below 5918 ft, water releases are delayed until forecasts indicate the lake can reach that elevation or if high snowpack requires flood control releases. During winter, if forecasts suggest below-average runoff, releases may be curtailed even if the elevation exceeds 5918 ft. Generally, water will not be released from Bear Lake when its elevation is below the PTE, except during emergencies or for flood control. This strategy balances long-term water supply needs during droughts with flood control requirements.
 
 If the Bear Lake elevation is below the PTE from the end of the irrigation season to March 31st of the following year, releases are curtailed until the lake is predicted to reach the PTE. ([Read more on Bear Lake Operations](https://bearrivercommission.org/docs/Operations%20Agreement%20for%20PacifiCorps%20Bear%20River%20System.pdf))
+
+## Bear River, Bear Lake and Great Salt Lake
+
+The Bear River, Bear Lake, and Great Salt Lake function as a single interconnected hydrologic system rather than three separate water bodies. The Bear River supplies roughly 30% of inflow to Bear Lake and roughly 60% of flow to the Great Salt Lake, directly linking upstream flow decisions to the ecological health of both downstream lakes - including Bear Lake's four endemic fish species and the Great Salt Lake's temperature, salinity, water level, and migratory bird habitat.
+
+This connection also runs in reverse: as the Great Salt Lake has declined, pressure has increased on Bear Lake and Bear River water specifically, since the Bear River is the lake's largest tributary — meaning GSL's crisis is intensifying competition for water further up the system, not just downstream of it. This interconnection means water management decisions in the Bear River Basin carry economic trade-offs that extend well beyond the basin itself. Reallocating water toward one use, such as additional irrigation or municipal growth, reduces what's available for hydropower, recreation, and downstream lake deliveries, with an estimated \$1.95 billion in annual Bear River economic value at risk if flows are reduced or degraded. Decisions made anywhere in the basin ripple through the entire system's ecology and economy.
+
+([Read More: Regional Economic Values of the Bear River,](https://www.conservationecon.org/_files/ugd/5fc209_6630204e5cc64833a93b6e214bfe5e2b.pdf)  [Case Study of Bear Lake Regional Economic Contributions and Environmental Impacts](https://jrap.scholasticahq.com/article/146693-regional-economic-contributions-and-environmental-impacts-in-rural-areas-a-case-study-of-idaho-and-utah-s-bear-lake)).
+
+## The Challenge
+
+**Conservation alone is not sufficient;** any saved water has to actually reach and stay in the river system (rather than being reallocated to new uses) in order to raise the lake. ([University of Utah, Strike Team roadmap](https://attheu.utah.edu/science-technology/strike-team-updates-roadmap-for-rescuing-great-salt-lake-identifying-how-much-water-is-needed/)). This is exactly the function a water bank like the one modeled for the Bear River Basin is designed to provide: it aggregates water sold/banked by users and delivers a defined volume to GSL, primarily in the winter when diversions and losses are lowest. This immersive water bank model also explores how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water sustained over years to the lake.
+
+The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rivers, where the Bear River contributes 60% of the inflows, making upstream management decisions in basins like the Bear River directly consequential for the lake's health.
 
 ## Model
 

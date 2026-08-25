@@ -1,4 +1,8 @@
-# Bear River Basin Management
+# Bear River Basin
+
+The Bear River (Utah, Idaho, and Wyoming) supplies about 60% of inflow to the Great Salt Lake and 30% of inflow to Bear Lake. The Bear River system generates approximately \$1.95 billion in total annual value, supporting more than 11,400 jobs and \$403 million in annual labor income across the basin. Agriculture is the dominant water user. Bear River agriculture diverts an estimated 1.3 to 2.6 million acre-feet of water annually, generating \$861 million in combined crop and livestock revenue which is the largest single category of economic value in the basin. By contrast, municipal and industrial use draws only 50,000–132,000 acre-ftt/year (roughly 4–5% of agricultural volume), generating \$63.6 million in revenue. Bear River recreation draws an estimated 2 million visits per year, generating \$74 million in non-local visitor spending — with Bear Lake alone accounting for roughly half of all Bear River-related visits and expenditures. PacifiCorp's five Bear River hydroelectric facilities (Soda, Grace, Oneida, Cutler, and Last Chance dams) generate about \$18.2 million in annual revenue, with roughly 90% of output consumed regionally ([Read More: Regional Economic Values of the Bear River)](https://www.conservationecon.org/_files/ugd/5fc209_6630204e5cc64833a93b6e214bfe5e2b.pdf).
+
+## Bear River Basin Management
 
 The water allocation and management in the Bear River Basin is governed by an interconnected framework of interstate compacts, federal legislation, court decrees, state water laws, and administrative institutions.
 
@@ -9,7 +13,7 @@ The water allocation and management in the Bear River Basin is governed by an in
 
     Neither decree specified limits on Bear Lake elevations or total storage volume. These decrees remain integral to water administration, particularly regarding storage, diversion, and priority enforcement.
 
-## Agreements and Settlements
+### Agreements and Settlements
 
 1.  **Bear River Compact (1958):** It is the central interstate agreement among Utah, Wyoming, and Idaho that governs the allocation and use of the waters of the Bear River across the states. The Compact divides the river into Upper, Central and Lower Divisions and sets limits on water depletion. It also established the [Bear River Commission](https://bearrivercommission.org/) to administer the agreement and resolve disputes. Overall, the compact helps coordinate water development and protect water rights within the Bear River Basin. ([Read more](https://waterrights.utah.gov/techinfo/bearrivc/history.html)).
 2.  **Amended Bear River Compact (1980):** The amended compact was aimed to prevent then and future disputes over water distribution, ensure efficient multi-purpose use of the river’s water, allow for further water resource development, promote cooperation among the states, and achieve an equitable allocation of Bear River waters among the signatory states. It granted additional storage above Bear Lake of 74,500 acre feet (35,000 acre feet each for UT and WY and 4,500 acre feet for ID), with depletions not to exceed 28,000 acre-feet [(Read more](https://bearrivercommission.org/docs/BEAR%20RIVER%20COMPACT.pdf)).
