@@ -10,27 +10,29 @@ The model is based on the following principles: A) Store winter flows in Bear La
 
 ## Great Salt Lake
 
-Great Salt Lake is a terminal (closed-basin) lake — water flows in from the Bear, Weber, and Jordan Rivers with no natural outlet, so it leaves only through evaporation, making it highly sensitive to changes in inflow. It's the largest saline lake in the Western Hemisphere, sustaining \~80% of Utah's wetlands and roughly 10 million migratory birds across 330+ species each year, and underpinning a mineral, brine-shrimp, and tourism economy worth an estimated \$1.9-2.5 billion annually ([Utah Rivers Council](https://utahrivers.org/protecting-the-great-salt-lake), [Utah Division of Natural Resources](https://water.utah.gov/wp-content/uploads/2022/11/Great-Salt-Lake-overview.pdf), [Utah Division of Water Resources](https://fogsl.org/about/map) , FRIENDS of Great Salt Lake).
+Great Salt Lake (GSL) is a terminal (closed-basin) lake; water flows in from the Bear, Weber, and Jordan Rivers with no natural outlet, so it leaves only through evaporation, making it highly sensitive to changes in inflow. GSL is the largest saline lake in the Western Hemisphere, it sustains \~80% of Utah's wetlands and roughly 10 million migratory birds of over 330 species each year, and underpins a mineral, brine-shrimp, and tourism economy worth an estimated \$1.9-2.5 billion annually ([Utah Rivers Council](https://utahrivers.org/protecting-the-great-salt-lake), [Utah Division of Natural Resources](https://water.utah.gov/wp-content/uploads/2022/11/Great-Salt-Lake-overview.pdf), [Utah Division of Water Resources](https://fogsl.org/about/map)).
 
-### GSL Levels
+### Great Salt Lake Critical Levels
 
-The state has adopted a healthy target range of **4,198-4,205 ft** above sea level ([Great Salt Lake Strategic Plan](https://greatsaltlake.utah.gov/wp-content/uploads/Great-Salt-Lake-Strategic-Plan-1.pdf)). Below **4,192 ft**, serious adverse ecological and economic effects are expected.
+The state has adopted a healthy target range of **4,198-4,205 ft** above sea level Below **4,192 ft**, serious adverse ecological and economic effects are expected ([Great Salt Lake Strategic Plan](https://greatsaltlake.utah.gov/wp-content/uploads/Great-Salt-Lake-Strategic-Plan-1.pdf)).
 
-Over the past two decades, the lake has been below the "optimal" elevation range of 4,198 - 4,205 feet, hitting a historic low of 4,188.5 feet in 2022 and sitting at roughly 4,190 feet as of mid-2026 which is still several feet below the minimum healthy level of 4,198 feet.
+Over the past two decades, the lake has been below the ‘optimal’ elevation range of 4,198 - 4,205 ft, hitting a historic low of 4,188.5 feet in 2022. As of mid 2026, the lake is roughly at 4,190 ft which is still several feet below the minimum healthy level of 4,198 ft.
 
 ![The graph depicts historical elevation data for the Great Salt Lake South Arm, showing a steady rise from 4,188 feet in 1905 to 4,212 feet in 2025. AI-generated content may be incorrect.](media/6579d7537bf9cdee3e98c62952627295.png)
 
-Figure: GSL historical levels with reference healthy, transitionary and adverse effects zones. Source ([Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf))
+Figure 1: GSL historical levels with reference healthy, transitionary and adverse effects zones. Source ([Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf))
 
 As the lake shrinks, exposed lakebed becomes a source of wind-blown dust, some of it containing heavy metals such as arsenic, lead, and cadmium - which is a growing air-quality and public-health concern for the Wasatch Front. Lower lake levels also mean less "lake-effect" moisture reaching nearby mountains; the lake is credited with contributing roughly 5-10% of the region's celebrated snowpack and extending the ski season by five to seven weeks ([FRIENDS of Great Salt Lake](https://fogsl.org/about/map)).
 
 ### Closing the gap: How much water do we need to recover the lake levels?
 
-It is estimated that we will need about **800,000 acre-feet** (some estimates of 1M acft) of sustained additional inflow per year to return the lake to healthy levels (4,198 feet) by 2055. This is equivalent to more than four years of all human water use in Utah combined. Between 2021 and 2025, only about 400,000 acre-feet total were dedicated and delivered to the lake against a target of 471,000-1,055,000 acre-feet per year needed to reach 4,198 ft ([Utah Rivers Council](https://utahrivers.org/protecting-the-great-salt-lake), [Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf)).
+It is estimated that we will need about **800,000 acre-feet** (some estimates of 1M acft) of sustained additional inflow per year to return the lake to healthy levels (4,198 feet) by 2055. This is equivalent to over four years of all human water use in Utah combined. Between 2021 and 2025, only about 400,000 acre-feet total were dedicated and delivered to the lake against a target of 471,000-1,055,000 acre-feet per year needed to reach 4,198 ft ([Utah Rivers Council](https://utahrivers.org/protecting-the-great-salt-lake), [Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf)). ([Read More About GSL](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/GreatSaltLake.md#great-salt-lake))
+
+## The Challenge
+
+**Conservation alone is not sufficient;** any saved water has to actually reach and stay in the river system (rather than being reallocated to new uses) in order to raise the lake. ([University of Utah, Strike Team roadmap](https://attheu.utah.edu/science-technology/strike-team-updates-roadmap-for-rescuing-great-salt-lake-identifying-how-much-water-is-needed/)). This is exactly the function a water bank like the one modeled for the Bear River Basin is designed to provide: it aggregates water sold/banked by users and delivers a defined volume to GSL, primarily in the winter when diversions and losses are lowest. This immersive water bank model also explores how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water sustained over years to the lake.
 
 The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rivers, where the Bear River contributes 60% of the inflows, making upstream management decisions in basins like the Bear River directly consequential for the lake's health.
-
-([Read More About GSL](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/AdditionalInformation/GreatSaltLake.md#great-salt-lake))
 
 ## Bear River Basin
 
@@ -42,7 +44,7 @@ Bear Lake is a large natural freshwater lake on the Utah–Idaho border. It func
 
 ![](media/efb205682cd25cc0b07362c743f00818.png)
 
-Figure 1: Bear Lake Storage Profile
+Figure 2: Bear Lake Storage Profile
 
 ### Bear Lake Potential Target Elevation (PTE)
 
@@ -54,10 +56,6 @@ The Bear Lake's level is managed based on its level at the end of the irrigation
 
 If the Bear Lake elevation is below the PTE from the end of the irrigation season to March 31st of the following year, releases are curtailed until the lake is predicted to reach the PTE. ([Read more on Bear Lake Operations](https://bearrivercommission.org/docs/Operations%20Agreement%20for%20PacifiCorps%20Bear%20River%20System.pdf))
 
-## The Challenge
-
-A consistent theme across these studies is that **conservation alone is not sufficient;** water that is saved through efficiency or reduced consumption has to actually reach and stay in the river system (rather than being reallocated to new uses) in order to raise the lake. ([University of Utah, Strike Team roadmap](https://attheu.utah.edu/science-technology/strike-team-updates-roadmap-for-rescuing-great-salt-lake-identifying-how-much-water-is-needed/)). This is exactly the function a water bank like the one modeled for the Bear River Basin is designed to provide: it aggregates water conserved, sold, or banked by upstream and downstream users and delivers a defined volume to GSL, primarily in the winter when diversions and losses are lowest. This immersive water bank model explores how voluntary, market-based strategies among Bear River Basin water users and states can help deliver more water sustained over years to the lake to reach the minimum healthy level of 4,198 ft - and eventually toward the broader 4,198 - 4,205 ft target range.
-
 ## Model
 
 To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘View raw’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve, or trade water in the accounts. Read on for directions on how to use.
@@ -68,13 +66,13 @@ The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID 
 
 ![](media/663b9cb5558c024e5f7c6fb90a1c0c0f.png)
 
-Figure 2: Water Users as in the Immersive Model (Original Map: UT Division of Water Rights)
+Figure 3: Water Users as in the Immersive Model (Original Map: UT Division of Water Rights)
 
 The model is set up for a seasonal time step: October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade, and pricing (Figure 2).
 
 ![](media/5fe7677301e7a6c32655a0a4d03d3e4a.png)
 
-Figure 3: Model setup and choices
+Figure 4: Model setup and choices
 
 ### Model Assumptions
 
@@ -163,16 +161,21 @@ The following section contains details on how to guide a model session.
 
 ![The diagram illustrates the historical elevation data of Bear Lake over various years, with a focus on the minimum and maximum elevations, and the water year timeline. AI-generated content may be incorrect.](media/1a700101ceb839d8885b1e08113b18b9.png)
 
-Figure 4: Historic elevation of Bear Lake at the beginning of water year(ft)
+Figure 5: Historical elevation of Bear Lake at the beginning of water year(ft)
 
 4.  In **Row 35,** select natural flow from the drop-down list. The list contains estimated historic natural flows for water years 2004 - 2001.
     -   The model also shows the year for the selected flow.
 
 ![The image is a line chart depicting the historical flow rates (in million acre-feet) of the Bear River Basin across various locations in Utah and Idaho, from 2004 to 2021. AI-generated content may be incorrect.](media/2498a1cc954da85849f25248cac99605.png)
 
-Figure 5: Historic Natural Flows for Bear River Basin
+Figure 6: Historical Natural Flows for Bear River Basin
 
 5.  **Row 38-43:** The model shows the GSL levels, volume and the surface area at the start of the water year for corresponding year.
+
+![The graph shows the fluctuating lake elevation levels from 2000 to 2024, with a notable low point in 2019. AI-generated content may be incorrect.](media/ebbb75c9b4d6e1268de9ab965829f6ae.png)
+
+Figure 7: Historical Great Salt Lake Levels
+
 6.  **Row 45 - 49:** The model shows the estimated winter natural flow (October – March) for the selected flow / year.
     -   The winter natural flow from upstream bear lake is added to the bear lake storage (assuming there are no diversions in winter season).
 
@@ -189,7 +192,7 @@ Figure 5: Historic Natural Flows for Bear River Basin
 
     ![The image shows a line graph depicting the historical depletion of water levels in the Bear River Basin from 2004 to 2021, with specific depletion figures for Upper, Lower, and Lower UT Users, and various points such as UT, WY, and Cache Valley. AI-generated content may be incorrect.](media/5304f459a85b59b74dc7bdffa8982648.png)
 
-Figure 6: Historic Depletions in Bear River Basin
+Figure 8: Historic Depletions in Bear River Basin
 
 ### Participant Dashboard
 
@@ -201,7 +204,7 @@ Figure 6: Historic Depletions in Bear River Basin
 
 ### ![The diagram illustrates the calculation of available water in an account for a specific year, accounting for historical depletions, compact provisions, consumptive use, and available water from streamflow and reservoirs. AI-generated content may be incorrect.](media/9add26ce49f6aa967c7103e93c43dc1d.png)
 
-Figure 7: Participant Dashboard in the model file
+Figure 9: Participant Dashboard in the model file
 
 16. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
     -   For Cache Valley, UT the non ag depletions are considered to be 0 as mainly all of the urban water is sourced from underground sources.
