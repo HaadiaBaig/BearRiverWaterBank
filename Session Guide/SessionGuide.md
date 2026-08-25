@@ -35,16 +35,18 @@ The following section contains details on how to guide a model session.
 -   Preserve agriculture (90%), conserve to 10% buffer, bank all else.
 -   Maximize profitability while balancing Great Salt Lake deliveries.
 -   Protect agricultural areas / users.
--   Maximize profits.
+-   Maximize profits. Consume only the minimum needed, sell the rest to the bank at the best negotiated price each year.
 -   Preserve agricultural production. Buy if needed and sell if in excess.
 -   Save water to get to the Great Salt Lake.
 
 **Bank**
 
 -   Maximize number of transactions and water delivered to GSL.
--   Maximize Great Salt Lake conserved water.
+-   Maximize water conservation for Great Salt Lake.
 -   Bank stores water in Bear Lake in summer, deliver to GSL in winter.
 -   Try banking to understand how it might work for the Bear River Basin.
+-   Prioritize buying/conserving as much water as possible in early years.
+-   Send water to GSL every year in smaller amounts.
 
 ### Start of the water year: October
 

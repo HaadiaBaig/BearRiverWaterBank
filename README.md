@@ -20,7 +20,7 @@ Over the past two decades, the lake has been below the ‘optimal’ elevation r
 
 ![The graph depicts historical elevation data for the Great Salt Lake South Arm, showing a steady rise from 4,188 feet in 1905 to 4,212 feet in 2025. AI-generated content may be incorrect.](media/6579d7537bf9cdee3e98c62952627295.png)
 
-Figure 1: GSL historical levels with reference healthy, transitionary and adverse effects zones. Source ([Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf))
+Figure 1: GSL historical levels with reference healthy, transitionary and adverse effects zones. (Source: [Great Salt Lake Strike Team Report, 2026](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/2026/01/GSL-Jan2026.pdf))
 
 As the lake shrinks, exposed lakebed becomes a source of wind-blown dust, some of it containing heavy metals such as arsenic, lead, and cadmium - which is a growing air-quality and public-health concern for the Wasatch Front. Lower lake levels also mean less "lake-effect" moisture reaching nearby mountains; the lake is credited with contributing roughly 5-10% of the region's celebrated snowpack and extending the ski season by five to seven weeks ([FRIENDS of Great Salt Lake](https://fogsl.org/about/map)).
 
@@ -54,7 +54,7 @@ If the Bear Lake elevation is below the PTE from the end of the irrigation seaso
 
 ## Bear River, Bear Lake and Great Salt Lake
 
-The Bear River, Bear Lake, and Great Salt Lake function as a single interconnected hydrologic system rather than three separate water bodies. The Bear River supplies roughly 30% of inflow to Bear Lake and roughly 60% of flow to the Great Salt Lake, directly linking upstream flow decisions to the ecological health of both downstream lakes - including Bear Lake's four endemic fish species and the Great Salt Lake's temperature, salinity, water level, and migratory bird habitat.
+The Bear River, Bear Lake, and Great Salt Lake function as a single interconnected hydrologic system rather than three separate water bodies. The Bear River supplies roughly 30% of inflow to Bear Lake and roughly 60% of flow to the Great Salt Lake, directly linking upstream flow decisions to the ecological health of both downstream lakes - including Bear Lake's four endemic fish species and the Great Salt Lake's temperature, salinity, water level, and migratory bird habitat ([Regional Economic Values of the Bear River,](https://www.conservationecon.org/_files/ugd/5fc209_6630204e5cc64833a93b6e214bfe5e2b.pdf)).
 
 This connection also runs in reverse: as the Great Salt Lake has declined, pressure has increased on Bear Lake and Bear River water specifically, since the Bear River is the lake's largest tributary — meaning GSL's crisis is intensifying competition for water further up the system, not just downstream of it. This interconnection means water management decisions in the Bear River Basin carry economic trade-offs that extend well beyond the basin itself. Reallocating water toward one use, such as additional irrigation or municipal growth, reduces what's available for hydropower, recreation, and downstream lake deliveries, with an estimated \$1.95 billion in annual Bear River economic value at risk if flows are reduced or degraded. Decisions made anywhere in the basin ripple through the entire system's ecology and economy.
 
@@ -68,7 +68,7 @@ The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rive
 
 ## Model
 
-To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘View raw’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve, or trade water in the accounts. Read on for directions on how to use.
+To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘[View raw](https://github.com/HaadiaBaig/BearRiverWaterBank/raw/refs/heads/main/ModelFiles/BearRiverWaterBank.xlsx)’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve, or trade water in the accounts. Read on for directions on how to use.
 
 ### Model Setup
 
@@ -132,7 +132,7 @@ The following section contains details on how to guide a model session.
 
 ### Setup
 
-1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer, (Click on ‘View raw’ to download the file).
+1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer, (Click on ‘[View raw](https://github.com/HaadiaBaig/BearRiverWaterBank/raw/refs/heads/main/ModelFiles/BearRiverWaterBank.xlsx)’ to download the file).
 2.  Move the Excel file to your Google Drive. Open as a Google Sheet.
 3.  Open the *Versions* worksheet to see updates.
 4.  Duplicate the *Model* Worksheet to work on in this session and save a blank version for later use.
@@ -152,16 +152,18 @@ The following section contains details on how to guide a model session.
 -   Preserve agriculture (90%), conserve to 10% buffer, bank all else.
 -   Maximize profitability while balancing Great Salt Lake deliveries.
 -   Protect agricultural areas / users.
--   Maximize profits.
+-   Maximize profits. Consume only the minimum needed, sell the rest to the bank at the best negotiated price each year.
 -   Preserve agricultural production. Buy if needed and sell if in excess.
 -   Save water to get to the Great Salt Lake.
 
 **Bank**
 
 -   Maximize number of transactions and water delivered to GSL.
--   Maximize Great Salt Lake conserved water.
+-   Maximize water conservation for Great Salt Lake.
 -   Bank stores water in Bear Lake in summer, deliver to GSL in winter.
 -   Try banking to understand how it might work for the Bear River Basin.
+-   Prioritize buying/conserving as much water as possible in early years.
+-   Send water to GSL every year in smaller amounts.
 
 ### Start of the water year: October
 
