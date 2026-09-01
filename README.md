@@ -68,7 +68,7 @@ The lake depends almost entirely on inflow from the Bear, Weber, and Jordan Rive
 
 ## Model
 
-To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘[View raw](https://github.com/HaadiaBaig/BearRiverWaterBank/raw/refs/heads/main/ModelFiles/BearRiverWaterBank.xlsx)’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin. Over one or more years, participants consume, conserve, or trade water in the accounts. Read on for directions on how to use.
+To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) (Click on ‘[View raw](https://github.com/HaadiaBaig/BearRiverWaterBank/raw/refs/heads/main/ModelFiles/BearRiverWaterBank.xlsx)’ to download the file), move to Google Sheets, and invite participants. There are accounts for different water users in the Bear River Basin.
 
 ### Model Setup
 
