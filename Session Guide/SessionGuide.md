@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this immersive online collaborative model is to help generate holistic strategies to get more water to the Great Salt Lake. The tool is useful for two purposes: as researchers, we want to know A) Why do people decide to consume, conserve, bank, and deliver water within immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake? Second, collaborators get an opportunity to immerse in and personify water user roles in Bear River Basin, while making decisions to consume, conserve, and bank water.
+The purpose of this immersive online collaborative model is to help generate holistic strategies to get more water to the Great Salt Lake. The tool is useful for two purposes: as researchers, we want to know A) Why do people decide to consume, conserve, bank, and deliver water within immersive modeling environments? B) Which new insights do participants take away from a model session? C) How can an immersive online collaborative modeling approach help generate holistic strategies to address the multidisciplinary, multi-user, and conflict-laden problem to get more water to Great Salt Lake? Second, collaborators get an opportunity to immerse in and personify water user roles in the Bear River Basin, while making decisions to consume, conserve, and bank water.
 
 ### Requirements
 
@@ -15,7 +15,7 @@ The following section contains details on how to guide a model session.
 
 ### Setup
 
-1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer, (Click on ‘View raw’ to download the file).
+1.  Download the file [BearRiverWaterBank.xlsx](https://github.com/HaadiaBaig/BearRiverWaterBank/blob/main/ModelFiles/BearRiverWaterBank.xlsx) to your computer (Click on ‘View raw’ to download the file).
 2.  Move the Excel file to your Google Drive. Open as a Google Sheet.
 3.  Open the *Versions* worksheet to see updates.
 4.  Duplicate the *Model* Worksheet to work on in this session and save a blank version for later use.
@@ -25,7 +25,7 @@ The following section contains details on how to guide a model session.
 
 ### Use
 
-1.  On the Model worksheet, scroll down Column B. The instructions are given in rows with Blue text. For example, in **Rows 6-11**, participants select a User and enter the User's Strategy to participate in the banking. If fewer than 5 participants, participants select multiple parties.
+1.  On the Model worksheet, scroll down Column B. The instructions are given in rows with blue text. For example, in **Rows 6-11**, participants select a User and enter the User's Strategy to participate in the banking. If fewer than 5 participants, participants select multiple parties.
 
 #### Sample strategies
 
@@ -91,7 +91,7 @@ Figure 4: Historical Depletions in Bear River Basin
 
 ### Participant Dashboard
 
-11. The participant dashboard is divided into two sections; one is for the water bank and the other is for the users
+11. The participant dashboard is divided into two sections; one is for the water bank, and the other is for the users.
 12. **Cell C78:** shows the total budget for the water bank.
 13. **Row 79**: Shows the remaining bank budget for each year.
 14. **Row 84 – 179:** User dashboard for other water users.
@@ -103,7 +103,7 @@ Figure 5: Participant Dashboard in the model file
 
 16. Model shows the historic natural flow, non-agricultural depletions, streamflow losses, and upstream depletions for each user.
     -   For Cache Valley, UT the non ag depletions are considered to be 0 as mainly all of the urban water is sourced from underground sources.
-17. Model allocates available natural flow to each user, calculated by the formula
+17. Model allocates available natural flow to each user, calculated by the formula.
 
     *Available water = Natural Flow – Streamflow losses – Non-Ag Depletions – Upstream consumptive use derived from flow (if any) – water sold to the bank by upstream users – water conserved in the bank by upstream users.*
 
@@ -130,7 +130,7 @@ Figure 5: Participant Dashboard in the model file
 27. **Row 197-201,** the model calculates the total net water traded by the bank and the net storage available in the bank.
 28. **Row 203-208:** Summary of the total budget, transaction costs each year and remaining budget for the water bank.
 
-*Remaining Total Budget (\$) = Total budget – (Total transaction costs in previous years + Transaction costs in present year).*
+*Remaining Total Budget (\$) = Total budget – (Total transaction costs in previous years + Transaction costs in the present year).*
 
 ### End of Summer
 
@@ -145,7 +145,7 @@ Figure 5: Participant Dashboard in the model file
 
 ### Delivering Water for GSL
 
-32. **Row 240**: model calculates the available Bear Lake storage using the formula,
+32. **Row 240**: model calculates the available Bear Lake storage using the formula.
 
     Available Bear Lake Storage = End of summer Bear Lake storage – User accounts balance in Bear Lake.
 
@@ -154,9 +154,9 @@ Figure 5: Participant Dashboard in the model file
 
 ### End of Year Summary
 
-35. **Row 248-249:** End of year bank storage = Cumulative bank storage – Water delivered to the GSL.
+35. **Row 248-249:** End of year bank storage = Cumulative bank storage - Water delivered to the GSL.
 36. **Row 252-254:** End of Year GSL levels, volume and surface area.
-37. **Row 256-257**: Model calculates end of year Bear Lake storage and elevation.
+37. **Row 256-257**: Model calculates end-of-year Bear Lake storage and elevation.
     -   The end of year Bear Lake level becomes the beginning of year Bear Lake level for the next year.
 38. **Row 259:** Move to next year.
 
