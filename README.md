@@ -74,9 +74,9 @@ To use, download the [Excel Model File](https://github.com/HaadiaBaig/BearRiverW
 
 The water users in the model are 1) UT, WY users upstream Bear Lake 2) Lower ID users (Users below Bear Lake in ID) 3) Cache Valley, UT (Users in UT that are in Logan River – Little Bear River Watershed 4) Lower UT (Utah users excluding Cache Valley and Malad river users).
 
-![](media/663b9cb5558c024e5f7c6fb90a1c0c0f.png)
+![](media/e03380264bb6d37a5fd40b97bc66f161.png)
 
-Figure 3: Water Users as in the Immersive Model (Original Map: UT Division of Water Rights)
+Figure 3: Water Users as in the Immersive Model
 
 The model is set up for a seasonal time step: October–March: Winter inflows, April–September: Summer flow and user decisions for water use, conservation, trade, and pricing (Figure 4).
 
